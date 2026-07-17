@@ -1,0 +1,2382 @@
+[
+  {
+    "name": "Aid",
+    "level": "2 环",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Alarm",
+    "level": "1 环",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Alter Self",
+    "level": "2 环",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Animal Friendship",
+    "level": "1 环",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Animal Messenger",
+    "level": "2 环",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Animal Shapes",
+    "level": "8 环",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Animate Dead",
+    "level": "3 环",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Animate Objects",
+    "level": "5 环",
+    "pages": [
+      193
+    ]
+  },
+  {
+    "name": "Antilife Shell",
+    "level": "5 环",
+    "pages": [
+      193
+    ]
+  },
+  {
+    "name": "Antimagic Field",
+    "level": "8 环",
+    "pages": [
+      193
+    ]
+  },
+  {
+    "name": "Arcane Eye",
+    "level": "4 环",
+    "pages": [
+      194
+    ]
+  },
+  {
+    "name": "Arcane Gate",
+    "level": "6 环",
+    "pages": [
+      194
+    ]
+  },
+  {
+    "name": "Arcane Lock",
+    "level": "2 环",
+    "pages": [
+      194
+    ]
+  },
+  {
+    "name": "Armor of Agathys",
+    "level": "1 环",
+    "pages": [
+      194
+    ]
+  },
+  {
+    "name": "Arms of Hadar",
+    "level": "1 环",
+    "pages": [
+      195
+    ]
+  },
+  {
+    "name": "Astral Projection",
+    "level": "9 环",
+    "pages": [
+      195
+    ]
+  },
+  {
+    "name": "Augury",
+    "level": "2 环",
+    "pages": [
+      195
+    ]
+  },
+  {
+    "name": "Aura of Life",
+    "level": "4 环",
+    "pages": [
+      195
+    ]
+  },
+  {
+    "name": "Aura of Vitality",
+    "level": "3 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Awaken",
+    "level": "5 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Bane",
+    "level": "1 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Banishing Smite",
+    "level": "5 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Banishment",
+    "level": "4 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Barkskin",
+    "level": "2 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Beacon of Hope",
+    "level": "3 环",
+    "pages": [
+      196
+    ]
+  },
+  {
+    "name": "Beast Sense",
+    "level": "2 环",
+    "pages": [
+      197
+    ]
+  },
+  {
+    "name": "Bestow Curse",
+    "level": "3 环",
+    "pages": [
+      197
+    ]
+  },
+  {
+    "name": "Bigby’s Hand",
+    "level": "5 环",
+    "pages": [
+      197
+    ]
+  },
+  {
+    "name": "Blade Barrier",
+    "level": "6 环",
+    "pages": [
+      198
+    ]
+  },
+  {
+    "name": "Bless",
+    "level": "1 环",
+    "pages": [
+      198
+    ]
+  },
+  {
+    "name": "Blight",
+    "level": "4 环",
+    "pages": [
+      198
+    ]
+  },
+  {
+    "name": "Blinding Smite",
+    "level": "3 环",
+    "pages": [
+      198
+    ]
+  },
+  {
+    "name": "Blink",
+    "level": "3 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Blur",
+    "level": "2 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Branding Smite",
+    "level": "2 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Burning Hands",
+    "level": "1 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Call Lightning",
+    "level": "3 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Calm Emotions",
+    "level": "2 环",
+    "pages": [
+      199
+    ]
+  },
+  {
+    "name": "Chain Lightning",
+    "level": "6 环",
+    "pages": [
+      200
+    ]
+  },
+  {
+    "name": "Charm Person",
+    "level": "1 环",
+    "pages": [
+      200
+    ]
+  },
+  {
+    "name": "Chromatic Orb",
+    "level": "1 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Circle of Death",
+    "level": "6 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Circle of Power",
+    "level": "5 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Clairvoyance",
+    "level": "3 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Clone",
+    "level": "8 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Cloud of Daggers",
+    "level": "2 环",
+    "pages": [
+      201
+    ]
+  },
+  {
+    "name": "Cloudkill",
+    "level": "5 环",
+    "pages": [
+      202
+    ]
+  },
+  {
+    "name": "Color Spray",
+    "level": "1 环",
+    "pages": [
+      202
+    ]
+  },
+  {
+    "name": "Command",
+    "level": "1 环",
+    "pages": [
+      202
+    ]
+  },
+  {
+    "name": "Commune",
+    "level": "5 环",
+    "pages": [
+      202
+    ]
+  },
+  {
+    "name": "Commune with Nature",
+    "level": "5 环",
+    "pages": [
+      202
+    ]
+  },
+  {
+    "name": "Compelled Duel",
+    "level": "1 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Comprehend Languages",
+    "level": "1 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Compulsion",
+    "level": "4 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Cone of Cold",
+    "level": "5 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Confusion",
+    "level": "4 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Conjure Animals",
+    "level": "3 环",
+    "pages": [
+      203
+    ]
+  },
+  {
+    "name": "Conjure Barrage",
+    "level": "3 环",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "name": "Conjure Celestial",
+    "level": "7 环",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "name": "Conjure Elemental",
+    "level": "5 环",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "name": "Conjure Fey",
+    "level": "6 环",
+    "pages": [
+      204
+    ]
+  },
+  {
+    "name": "Conjure Minor Elementals",
+    "level": "4 环",
+    "pages": [
+      205
+    ]
+  },
+  {
+    "name": "Conjure Volley",
+    "level": "5 环",
+    "pages": [
+      205
+    ]
+  },
+  {
+    "name": "Conjure Woodland Beings",
+    "level": "4 环",
+    "pages": [
+      205
+    ]
+  },
+  {
+    "name": "Contact Other Plane",
+    "level": "5 环",
+    "pages": [
+      205
+    ]
+  },
+  {
+    "name": "Contagion",
+    "level": "5 环",
+    "pages": [
+      206
+    ]
+  },
+  {
+    "name": "Contingency",
+    "level": "6 环",
+    "pages": [
+      206
+    ]
+  },
+  {
+    "name": "Continual Flame",
+    "level": "2 环",
+    "pages": [
+      206
+    ]
+  },
+  {
+    "name": "Control Water",
+    "level": "4 环",
+    "pages": [
+      206
+    ]
+  },
+  {
+    "name": "Control Weather",
+    "level": "8 环",
+    "pages": [
+      207
+    ]
+  },
+  {
+    "name": "Cordon of Arrows",
+    "level": "2 环",
+    "pages": [
+      207
+    ]
+  },
+  {
+    "name": "Counterspell",
+    "level": "3 环",
+    "pages": [
+      207
+    ]
+  },
+  {
+    "name": "Create Food and Water",
+    "level": "3 环",
+    "pages": [
+      207
+    ]
+  },
+  {
+    "name": "Create Undead",
+    "level": "6 环",
+    "pages": [
+      208
+    ]
+  },
+  {
+    "name": "Create or Destroy Water",
+    "level": "1 环",
+    "pages": [
+      208
+    ]
+  },
+  {
+    "name": "Creation",
+    "level": "5 环",
+    "pages": [
+      208
+    ]
+  },
+  {
+    "name": "Crown of Madness",
+    "level": "2 环",
+    "pages": [
+      208
+    ]
+  },
+  {
+    "name": "Crusader’s Mantle",
+    "level": "3 环",
+    "pages": [
+      208
+    ]
+  },
+  {
+    "name": "Cure Wounds",
+    "level": "1 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Darkness",
+    "level": "2 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Darkvision",
+    "level": "2 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Daylight",
+    "level": "3 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Deafness",
+    "level": "2 环",
+    "pages": [
+      198
+    ]
+  },
+  {
+    "name": "Death Ward",
+    "level": "4 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "level": "7 环",
+    "pages": [
+      209
+    ]
+  },
+  {
+    "name": "Demiplane",
+    "level": "8 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Destructive Wave",
+    "level": "5 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Detect Evil and Good",
+    "level": "1 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Detect Magic",
+    "level": "1 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Detect Poison and Disease",
+    "level": "1 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Detect Thoughts",
+    "level": "2 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Dimension Door",
+    "level": "4 环",
+    "pages": [
+      210
+    ]
+  },
+  {
+    "name": "Disguise Self",
+    "level": "1 环",
+    "pages": [
+      212
+    ]
+  },
+  {
+    "name": "Disintegrate",
+    "level": "6 环",
+    "pages": [
+      212
+    ]
+  },
+  {
+    "name": "Dispel Evil and Good",
+    "level": "5 环",
+    "pages": [
+      212
+    ]
+  },
+  {
+    "name": "Dispel Magic",
+    "level": "3 环",
+    "pages": [
+      212
+    ]
+  },
+  {
+    "name": "Dissonant Whispers",
+    "level": "1 环",
+    "pages": [
+      212
+    ]
+  },
+  {
+    "name": "Divination",
+    "level": "4 环",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "name": "Divine Favor",
+    "level": "1 环",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "name": "Divine Word",
+    "level": "7 环",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "name": "Dominate Beast",
+    "level": "4 环",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "name": "Dominate Monster",
+    "level": "8 环",
+    "pages": [
+      213
+    ]
+  },
+  {
+    "name": "Dominate Person",
+    "level": "5 环",
+    "pages": [
+      214
+    ]
+  },
+  {
+    "name": "Drawmij’s Instant Summons",
+    "level": "6 环",
+    "pages": [
+      214
+    ]
+  },
+  {
+    "name": "Dream",
+    "level": "5 环",
+    "pages": [
+      214
+    ]
+  },
+  {
+    "name": "Earthquake",
+    "level": "8 环",
+    "pages": [
+      214
+    ]
+  },
+  {
+    "name": "Elemental Weapon",
+    "level": "3 环",
+    "pages": [
+      215
+    ]
+  },
+  {
+    "name": "Enhance Ability",
+    "level": "2 环",
+    "pages": [
+      215
+    ]
+  },
+  {
+    "name": "Ensnaring Strike",
+    "level": "1 环",
+    "pages": [
+      216
+    ]
+  },
+  {
+    "name": "Entangle",
+    "level": "1 环",
+    "pages": [
+      216
+    ]
+  },
+  {
+    "name": "Enthrall",
+    "level": "2 环",
+    "pages": [
+      216
+    ]
+  },
+  {
+    "name": "Etherealness",
+    "level": "7 环",
+    "pages": [
+      216
+    ]
+  },
+  {
+    "name": "Evard’s Black Tentacles",
+    "level": "4 环",
+    "pages": [
+      216
+    ]
+  },
+  {
+    "name": "Expeditious Retreat",
+    "level": "1 环",
+    "pages": [
+      217
+    ]
+  },
+  {
+    "name": "Eyebite",
+    "level": "6 环",
+    "pages": [
+      217
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "level": "4 环",
+    "pages": [
+      217
+    ]
+  },
+  {
+    "name": "Faerie Fire",
+    "level": "1 环",
+    "pages": [
+      217
+    ]
+  },
+  {
+    "name": "Feather Fall",
+    "level": "1 环",
+    "pages": [
+      217
+    ]
+  },
+  {
+    "name": "Feeblemind",
+    "level": "8 环",
+    "pages": [
+      218
+    ]
+  },
+  {
+    "name": "Find Steed",
+    "level": "2 环",
+    "pages": [
+      218
+    ]
+  },
+  {
+    "name": "Find Traps",
+    "level": "2 环",
+    "pages": [
+      219
+    ]
+  },
+  {
+    "name": "Finger of Death",
+    "level": "7 环",
+    "pages": [
+      219
+    ]
+  },
+  {
+    "name": "Fire Shield",
+    "level": "4 环",
+    "pages": [
+      219
+    ]
+  },
+  {
+    "name": "Fire Storm",
+    "level": "7 环",
+    "pages": [
+      219
+    ]
+  },
+  {
+    "name": "Fireball",
+    "level": "3 环",
+    "pages": [
+      219
+    ]
+  },
+  {
+    "name": "Flame Blade",
+    "level": "2 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Flame Strike",
+    "level": "5 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Flaming Sphere",
+    "level": "2 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Flesh to Stone",
+    "level": "6 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Fly",
+    "level": "3 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Fog Cloud",
+    "level": "1 环",
+    "pages": [
+      220
+    ]
+  },
+  {
+    "name": "Forbiddance",
+    "level": "6 环",
+    "pages": [
+      221
+    ]
+  },
+  {
+    "name": "Forcecage",
+    "level": "7 环",
+    "pages": [
+      221
+    ]
+  },
+  {
+    "name": "Foresight",
+    "level": "9 环",
+    "pages": [
+      221
+    ]
+  },
+  {
+    "name": "Freedom of Movement",
+    "level": "4 环",
+    "pages": [
+      221
+    ]
+  },
+  {
+    "name": "Gaseous Form",
+    "level": "3 环",
+    "pages": [
+      222
+    ]
+  },
+  {
+    "name": "Gate",
+    "level": "9 环",
+    "pages": [
+      222
+    ]
+  },
+  {
+    "name": "Geas",
+    "level": "5 环",
+    "pages": [
+      222
+    ]
+  },
+  {
+    "name": "Gentle Repose",
+    "level": "2 环",
+    "pages": [
+      222
+    ]
+  },
+  {
+    "name": "Giant Insect",
+    "level": "4 环",
+    "pages": [
+      222
+    ]
+  },
+  {
+    "name": "Glibness",
+    "level": "8 环",
+    "pages": [
+      223
+    ]
+  },
+  {
+    "name": "Globe of Invulnerability",
+    "level": "6 环",
+    "pages": [
+      223
+    ]
+  },
+  {
+    "name": "Glyph of Warding",
+    "level": "3 环",
+    "pages": [
+      223
+    ]
+  },
+  {
+    "name": "Goodberry",
+    "level": "1 环",
+    "pages": [
+      223
+    ]
+  },
+  {
+    "name": "Grasping Vine",
+    "level": "4 环",
+    "pages": [
+      223
+    ]
+  },
+  {
+    "name": "Grease",
+    "level": "1 环",
+    "pages": [
+      224
+    ]
+  },
+  {
+    "name": "Great Invisibility",
+    "level": "4 环",
+    "pages": [
+      224
+    ]
+  },
+  {
+    "name": "Great Restoration",
+    "level": "5 环",
+    "pages": [
+      224
+    ]
+  },
+  {
+    "name": "Guardian of Faith",
+    "level": "4 环",
+    "pages": [
+      224
+    ]
+  },
+  {
+    "name": "Guards and Wards",
+    "level": "6 环",
+    "pages": [
+      224
+    ]
+  },
+  {
+    "name": "Guiding Bolt",
+    "level": "1 环",
+    "pages": [
+      226
+    ]
+  },
+  {
+    "name": "Gust of Wind",
+    "level": "2 环",
+    "pages": [
+      226
+    ]
+  },
+  {
+    "name": "Hail of Thorns",
+    "level": "1 环",
+    "pages": [
+      226
+    ]
+  },
+  {
+    "name": "Hallow",
+    "level": "5 环",
+    "pages": [
+      226
+    ]
+  },
+  {
+    "name": "Hallucinatory Terrain",
+    "level": "5 环",
+    "pages": [
+      188,
+      227
+    ]
+  },
+  {
+    "name": "Harm",
+    "level": "6 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Haste",
+    "level": "3 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Heal",
+    "level": "6 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Healing Word",
+    "level": "1 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Heat Metal",
+    "level": "2 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Hellish Rebuke",
+    "level": "1 环",
+    "pages": [
+      227
+    ]
+  },
+  {
+    "name": "Heroism",
+    "level": "1 环",
+    "pages": [
+      228
+    ]
+  },
+  {
+    "name": "Hero’s Feast",
+    "level": "6 环",
+    "pages": [
+      228
+    ]
+  },
+  {
+    "name": "Hex",
+    "level": "1 环",
+    "pages": [
+      228
+    ]
+  },
+  {
+    "name": "Hold Monster",
+    "level": "5 环",
+    "pages": [
+      228
+    ]
+  },
+  {
+    "name": "Hold Person",
+    "level": "2 环",
+    "pages": [
+      228
+    ]
+  },
+  {
+    "name": "Holy Aura",
+    "level": "9 环",
+    "pages": [
+      183,
+      228
+    ]
+  },
+  {
+    "name": "Hunger of Hadar",
+    "level": "3 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Hunter’s Mark",
+    "level": "1 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "level": "3 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Ice Storm",
+    "level": "4 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Identify",
+    "level": "1 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Illusory Script",
+    "level": "1 环",
+    "pages": [
+      229
+    ]
+  },
+  {
+    "name": "Imprisonment",
+    "level": "9 环",
+    "pages": [
+      230
+    ]
+  },
+  {
+    "name": "Incendiary Cloud",
+    "level": "8 环",
+    "pages": [
+      230
+    ]
+  },
+  {
+    "name": "Inflict Wounds",
+    "level": "1 环",
+    "pages": [
+      230
+    ]
+  },
+  {
+    "name": "Insect Plague",
+    "level": "5 环",
+    "pages": [
+      230
+    ]
+  },
+  {
+    "name": "Invisibility",
+    "level": "2 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Jump",
+    "level": "1 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Knock",
+    "level": "2 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Legend Lore",
+    "level": "5 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Leomund’s Secret Chest",
+    "level": "4 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Leomund’s Tiny Hut",
+    "level": "3 环",
+    "pages": [
+      231
+    ]
+  },
+  {
+    "name": "Lesser Restoration",
+    "level": "2 环",
+    "pages": [
+      232
+    ]
+  },
+  {
+    "name": "Levitate",
+    "level": "2 环",
+    "pages": [
+      232
+    ]
+  },
+  {
+    "name": "Lightning Arrow",
+    "level": "3 环",
+    "pages": [
+      232
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "level": "3 环",
+    "pages": [
+      232
+    ]
+  },
+  {
+    "name": "Locate Animals or Plants",
+    "level": "2 环",
+    "pages": [
+      232
+    ]
+  },
+  {
+    "name": "Locate Creature",
+    "level": "4 环",
+    "pages": [
+      233
+    ]
+  },
+  {
+    "name": "Locate Object",
+    "level": "2 环",
+    "pages": [
+      233
+    ]
+  },
+  {
+    "name": "Longstrider",
+    "level": "1 环",
+    "pages": [
+      233
+    ]
+  },
+  {
+    "name": "Mage Armor",
+    "level": "1 环",
+    "pages": [
+      233
+    ]
+  },
+  {
+    "name": "Magic Circle",
+    "level": "3 环",
+    "pages": [
+      233
+    ]
+  },
+  {
+    "name": "Magic Jar",
+    "level": "6 环",
+    "pages": [
+      234
+    ]
+  },
+  {
+    "name": "Magic Missile",
+    "level": "1 环",
+    "pages": [
+      234
+    ]
+  },
+  {
+    "name": "Magic Mouth",
+    "level": "2 环",
+    "pages": [
+      234
+    ]
+  },
+  {
+    "name": "Magic Weapon",
+    "level": "2 环",
+    "pages": [
+      234
+    ]
+  },
+  {
+    "name": "Major Image",
+    "level": "3 环",
+    "pages": [
+      234
+    ]
+  },
+  {
+    "name": "Mass Cure Wounds",
+    "level": "5 环",
+    "pages": [
+      235
+    ]
+  },
+  {
+    "name": "Mass Heal",
+    "level": "9 环",
+    "pages": [
+      235
+    ]
+  },
+  {
+    "name": "Mass Healing Word",
+    "level": "3 环",
+    "pages": [
+      235
+    ]
+  },
+  {
+    "name": "Mass Suggestion",
+    "level": "6 环",
+    "pages": [
+      235
+    ]
+  },
+  {
+    "name": "Maze",
+    "level": "8 环",
+    "pages": [
+      235
+    ]
+  },
+  {
+    "name": "Meld into Stone",
+    "level": "3 环",
+    "pages": [
+      236
+    ]
+  },
+  {
+    "name": "Melf’s Acid Arrow",
+    "level": "2 环",
+    "pages": [
+      236
+    ]
+  },
+  {
+    "name": "Meteor Swarm",
+    "level": "9 环",
+    "pages": [
+      236
+    ]
+  },
+  {
+    "name": "Mind Blank",
+    "level": "8 环",
+    "pages": [
+      236
+    ]
+  },
+  {
+    "name": "Mirage Arcane",
+    "level": "7 环",
+    "pages": [
+      237
+    ]
+  },
+  {
+    "name": "Mirror Image",
+    "level": "2 环",
+    "pages": [
+      237
+    ]
+  },
+  {
+    "name": "Mislead",
+    "level": "5 环",
+    "pages": [
+      237
+    ]
+  },
+  {
+    "name": "Misty Step",
+    "level": "2 环",
+    "pages": [
+      237
+    ]
+  },
+  {
+    "name": "Modify Memory",
+    "level": "5 环",
+    "pages": [
+      238
+    ]
+  },
+  {
+    "name": "Moonbeam",
+    "level": "2 环",
+    "pages": [
+      238
+    ]
+  },
+  {
+    "name": "Mordenkainen’s Faithful Hound",
+    "level": "4 环",
+    "pages": [
+      238
+    ]
+  },
+  {
+    "name": "Mordenkainen’s Magnificent Mansion",
+    "level": "7 环",
+    "pages": [
+      238
+    ]
+  },
+  {
+    "name": "Mordenkainen’s Private Sanctum",
+    "level": "4 环",
+    "pages": [
+      239
+    ]
+  },
+  {
+    "name": "Mordenkainen’s Sword",
+    "level": "7 环",
+    "pages": [
+      239
+    ]
+  },
+  {
+    "name": "Move Earth",
+    "level": "6 环",
+    "pages": [
+      239
+    ]
+  },
+  {
+    "name": "Nondetection",
+    "level": "3 环",
+    "pages": [
+      239
+    ]
+  },
+  {
+    "name": "Nystul’s Magic Aura",
+    "level": "2 环",
+    "pages": [
+      240
+    ]
+  },
+  {
+    "name": "Otiluke’s Freezing Sphere",
+    "level": "6 环",
+    "pages": [
+      240
+    ]
+  },
+  {
+    "name": "Otiluke’s Resilient Sphere",
+    "level": "4 环",
+    "pages": [
+      240
+    ]
+  },
+  {
+    "name": "Otto’s Irresistible Dance",
+    "level": "6 环",
+    "pages": [
+      240
+    ]
+  },
+  {
+    "name": "Paladin Spells",
+    "level": "1 环",
+    "pages": [
+      185
+    ]
+  },
+  {
+    "name": "Pass without Trace",
+    "level": "2 环",
+    "pages": [
+      240
+    ]
+  },
+  {
+    "name": "Passwall",
+    "level": "5 环",
+    "pages": [
+      241
+    ]
+  },
+  {
+    "name": "Phantasmal Force",
+    "level": "2 环",
+    "pages": [
+      241
+    ]
+  },
+  {
+    "name": "Phantasmal Killer",
+    "level": "4 环",
+    "pages": [
+      241
+    ]
+  },
+  {
+    "name": "Phantom Steed",
+    "level": "3 环",
+    "pages": [
+      241
+    ]
+  },
+  {
+    "name": "Planar Ally",
+    "level": "6 环",
+    "pages": [
+      241
+    ]
+  },
+  {
+    "name": "Planar Binding",
+    "level": "5 环",
+    "pages": [
+      242
+    ]
+  },
+  {
+    "name": "Plane Shift",
+    "level": "8 环",
+    "pages": [
+      188,
+      242
+    ]
+  },
+  {
+    "name": "Plant Growth",
+    "level": "3 环",
+    "pages": [
+      242
+    ]
+  },
+  {
+    "name": "Polymorph",
+    "level": "4 环",
+    "pages": [
+      243
+    ]
+  },
+  {
+    "name": "Power Word Heal",
+    "level": "9 环",
+    "pages": [
+      243
+    ]
+  },
+  {
+    "name": "Power Word Kill",
+    "level": "9 环",
+    "pages": [
+      243
+    ]
+  },
+  {
+    "name": "Power Word Stun",
+    "level": "9 环",
+    "pages": [
+      182,
+      243
+    ]
+  },
+  {
+    "name": "Prayer of Healing",
+    "level": "2 环",
+    "pages": [
+      243
+    ]
+  },
+  {
+    "name": "Prismatic Spray",
+    "level": "7 环",
+    "pages": [
+      244
+    ]
+  },
+  {
+    "name": "Prismatic Wall",
+    "level": "9 环",
+    "pages": [
+      244
+    ]
+  },
+  {
+    "name": "Programmed Illusion",
+    "level": "6 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Project Image",
+    "level": "7 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Protection from Energy",
+    "level": "3 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Protection from Evil and Good",
+    "level": "1 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Protection from Poison",
+    "level": "2 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Purify Food and Drink",
+    "level": "1 环",
+    "pages": [
+      246
+    ]
+  },
+  {
+    "name": "Raise Dead",
+    "level": "5 环",
+    "pages": [
+      247
+    ]
+  },
+  {
+    "name": "Ranger Spells",
+    "level": "1 环",
+    "pages": [
+      185
+    ]
+  },
+  {
+    "name": "Rary’s Telepathic Bond",
+    "level": "5 环",
+    "pages": [
+      247
+    ]
+  },
+  {
+    "name": "Ray of Enfeeblement",
+    "level": "2 环",
+    "pages": [
+      247
+    ]
+  },
+  {
+    "name": "Ray of Sickness",
+    "level": "1 环",
+    "pages": [
+      247
+    ]
+  },
+  {
+    "name": "Reduce",
+    "level": "2 环",
+    "pages": [
+      215
+    ]
+  },
+  {
+    "name": "Regenerate",
+    "level": "7 环",
+    "pages": [
+      247
+    ]
+  },
+  {
+    "name": "Reincarnate",
+    "level": "5 环",
+    "pages": [
+      248
+    ]
+  },
+  {
+    "name": "Remove Curse",
+    "level": "3 环",
+    "pages": [
+      248
+    ]
+  },
+  {
+    "name": "Resurrection",
+    "level": "7 环",
+    "pages": [
+      248
+    ]
+  },
+  {
+    "name": "Reverse Gravity",
+    "level": "7 环",
+    "pages": [
+      248
+    ]
+  },
+  {
+    "name": "Revivify",
+    "level": "4 环",
+    "pages": [
+      185,
+      248
+    ]
+  },
+  {
+    "name": "Rope Trick",
+    "level": "2 环",
+    "pages": [
+      249
+    ]
+  },
+  {
+    "name": "Sactuary",
+    "level": "1 环",
+    "pages": [
+      249
+    ]
+  },
+  {
+    "name": "Scorching Ray",
+    "level": "2 环",
+    "pages": [
+      249
+    ]
+  },
+  {
+    "name": "Scrying",
+    "level": "6 环",
+    "pages": [
+      183,
+      188,
+      249
+    ]
+  },
+  {
+    "name": "Searing Smite",
+    "level": "1 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "See Invisibility",
+    "level": "2 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "Seeming",
+    "level": "5 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "Sending",
+    "level": "3 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "Sequester",
+    "level": "7 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "Shapechange",
+    "level": "9 环",
+    "pages": [
+      250
+    ]
+  },
+  {
+    "name": "Shatter",
+    "level": "2 环",
+    "pages": [
+      251
+    ]
+  },
+  {
+    "name": "Shield",
+    "level": "1 环",
+    "pages": [
+      251
+    ]
+  },
+  {
+    "name": "Shield of Faith",
+    "level": "2 环",
+    "pages": [
+      182,
+      251
+    ]
+  },
+  {
+    "name": "Silence",
+    "level": "2 环",
+    "pages": [
+      251
+    ]
+  },
+  {
+    "name": "Silent Image",
+    "level": "1 环",
+    "pages": [
+      252
+    ]
+  },
+  {
+    "name": "Simulacrum",
+    "level": "7 环",
+    "pages": [
+      252
+    ]
+  },
+  {
+    "name": "Sleep",
+    "level": "1 环",
+    "pages": [
+      252
+    ]
+  },
+  {
+    "name": "Sleet Storm",
+    "level": "3 环",
+    "pages": [
+      252
+    ]
+  },
+  {
+    "name": "Slow",
+    "level": "3 环",
+    "pages": [
+      252
+    ]
+  },
+  {
+    "name": "Speak with Animals",
+    "level": "1 环",
+    "pages": [
+      253
+    ]
+  },
+  {
+    "name": "Speak with Dead",
+    "level": "3 环",
+    "pages": [
+      253
+    ]
+  },
+  {
+    "name": "Speak with Plants",
+    "level": "3 环",
+    "pages": [
+      253
+    ]
+  },
+  {
+    "name": "Spider Climb",
+    "level": "2 环",
+    "pages": [
+      253
+    ]
+  },
+  {
+    "name": "Spike Growth",
+    "level": "3 环",
+    "pages": [
+      184,
+      186,
+      253
+    ]
+  },
+  {
+    "name": "Spirit Guardians",
+    "level": "3 环",
+    "pages": [
+      253
+    ]
+  },
+  {
+    "name": "Spiritual Weapon",
+    "level": "2 环",
+    "pages": [
+      254
+    ]
+  },
+  {
+    "name": "Staggering Smite",
+    "level": "5 环",
+    "pages": [
+      185,
+      254
+    ]
+  },
+  {
+    "name": "Stinking Cloud",
+    "level": "3 环",
+    "pages": [
+      254
+    ]
+  },
+  {
+    "name": "Stone Shape",
+    "level": "5 环",
+    "pages": [
+      183,
+      254
+    ]
+  },
+  {
+    "name": "Stoneskin",
+    "level": "5 环",
+    "pages": [
+      186,
+      254
+    ]
+  },
+  {
+    "name": "Storm of Vengeance",
+    "level": "9 环",
+    "pages": [
+      254
+    ]
+  },
+  {
+    "name": "Suggestion",
+    "level": "3 环",
+    "pages": [
+      188,
+      255
+    ]
+  },
+  {
+    "name": "Sunbeam",
+    "level": "6 环",
+    "pages": [
+      255
+    ]
+  },
+  {
+    "name": "Sunburst",
+    "level": "8 环",
+    "pages": [
+      255
+    ]
+  },
+  {
+    "name": "Swift Quiver",
+    "level": "5 环",
+    "pages": [
+      255
+    ]
+  },
+  {
+    "name": "Symbol",
+    "level": "8 环",
+    "pages": [
+      183,
+      255
+    ]
+  },
+  {
+    "name": "Sympathy",
+    "level": "8 环",
+    "pages": [
+      194
+    ]
+  },
+  {
+    "name": "Tasha’s Hideous Laughter",
+    "level": "1 环",
+    "pages": [
+      256
+    ]
+  },
+  {
+    "name": "Telekinesis",
+    "level": "5 环",
+    "pages": [
+      256
+    ]
+  },
+  {
+    "name": "Telepathy",
+    "level": "9 环",
+    "pages": [
+      191,
+      256
+    ]
+  },
+  {
+    "name": "Teleport",
+    "level": "8 环",
+    "pages": [
+      182,
+      187,
+      191,
+      256
+    ]
+  },
+  {
+    "name": "Teleportation Circle",
+    "level": "6 环",
+    "pages": [
+      182,
+      257
+    ]
+  },
+  {
+    "name": "Tenser’s Floating Disk",
+    "level": "1 环",
+    "pages": [
+      257
+    ]
+  },
+  {
+    "name": "Thaumaturgy",
+    "level": "1 环",
+    "pages": [
+      182
+    ]
+  },
+  {
+    "name": "Thunderous Smite",
+    "level": "1 环",
+    "pages": [
+      258
+    ]
+  },
+  {
+    "name": "Thunderwave",
+    "level": "2 环",
+    "pages": [
+      184,
+      258
+    ]
+  },
+  {
+    "name": "Time Stop",
+    "level": "9 环",
+    "pages": [
+      258
+    ]
+  },
+  {
+    "name": "Tongues",
+    "level": "4 环",
+    "pages": [
+      181,
+      258
+    ]
+  },
+  {
+    "name": "Transport via Plants",
+    "level": "6 环",
+    "pages": [
+      258
+    ]
+  },
+  {
+    "name": "Tree Stride",
+    "level": "5 环",
+    "pages": [
+      258
+    ]
+  },
+  {
+    "name": "True Polymorph",
+    "level": "9 环",
+    "pages": [
+      259
+    ]
+  },
+  {
+    "name": "True Resurrection",
+    "level": "9 环",
+    "pages": [
+      259
+    ]
+  },
+  {
+    "name": "True Seeing",
+    "level": "7 环",
+    "pages": [
+      182,
+      187,
+      188,
+      259
+    ]
+  },
+  {
+    "name": "True Strike",
+    "level": "1 环",
+    "pages": [
+      186,
+      188,
+      189
+    ]
+  },
+  {
+    "name": "Tsunami",
+    "level": "9 环",
+    "pages": [
+      185,
+      259
+    ]
+  },
+  {
+    "name": "Unseen Servant",
+    "level": "2 环",
+    "pages": [
+      181,
+      260
+    ]
+  },
+  {
+    "name": "Vampiric Touch",
+    "level": "4 环",
+    "pages": [
+      188,
+      260
+    ]
+  },
+  {
+    "name": "Vicious Mockery",
+    "level": "1 环",
+    "pages": [
+      181
+    ]
+  },
+  {
+    "name": "Wall of Fire",
+    "level": "5 环",
+    "pages": [
+      184,
+      187,
+      190,
+      260
+    ]
+  },
+  {
+    "name": "Wall of Force",
+    "level": "5 环",
+    "pages": [
+      260
+    ]
+  },
+  {
+    "name": "Wall of Ice",
+    "level": "6 环",
+    "pages": [
+      261
+    ]
+  },
+  {
+    "name": "Wall of Stone",
+    "level": "6 环",
+    "pages": [
+      184,
+      187,
+      190,
+      261
+    ]
+  },
+  {
+    "name": "Wall of Thorns",
+    "level": "6 环",
+    "pages": [
+      261
+    ]
+  },
+  {
+    "name": "Warding Bond",
+    "level": "2 环",
+    "pages": [
+      261
+    ]
+  },
+  {
+    "name": "Water Breathing",
+    "level": "4 环",
+    "pages": [
+      190,
+      261
+    ]
+  },
+  {
+    "name": "Water Walk",
+    "level": "4 环",
+    "pages": [
+      183,
+      187,
+      263
+    ]
+  },
+  {
+    "name": "Web",
+    "level": "3 环",
+    "pages": [
+      187,
+      263
+    ]
+  },
+  {
+    "name": "Weird",
+    "level": "9 环",
+    "pages": [
+      263
+    ]
+  },
+  {
+    "name": "Wind Walk",
+    "level": "7 环",
+    "pages": [
+      184,
+      263
+    ]
+  },
+  {
+    "name": "Wind Wall",
+    "level": "4 环",
+    "pages": [
+      184,
+      186,
+      263
+    ]
+  },
+  {
+    "name": "Wish",
+    "level": "9 环",
+    "pages": [
+      263
+    ]
+  },
+  {
+    "name": "Witch Bolt",
+    "level": "2 环",
+    "pages": [
+      188,
+      189,
+      264
+    ]
+  },
+  {
+    "name": "Word of Recall",
+    "level": "7 环",
+    "pages": [
+      183,
+      264
+    ]
+  },
+  {
+    "name": "Wrathful Smite",
+    "level": "2 环",
+    "pages": [
+      185,
+      264
+    ]
+  },
+  {
+    "name": "Zone of Truth",
+    "level": "3 环",
+    "pages": [
+      181,
+      185,
+      264
+    ]
+  }
+]

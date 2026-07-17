@@ -1,0 +1,4 @@
+interface:
+  display_name: "D&D Rules-First DM"
+  short_description: "Run D&D 5e tabletop sessions in any fantasy setting"
+  default_prompt: "Use $dnd-bg3-dm to create a character and start an original D&D 5e fantasy session."

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "races",
+    "title": "Races",
+    "startPage": 3
+  },
+  {
+    "id": "classes",
+    "title": "Classes",
+    "startPage": 8
+  },
+  {
+    "id": "leveling",
+    "title": "Beyond 1st Level",
+    "startPage": 56
+  },
+  {
+    "id": "equipment",
+    "title": "Equipment",
+    "startPage": 66
+  },
+  {
+    "id": "using-ability-scores",
+    "title": "Using Ability Scores",
+    "startPage": 77
+  },
+  {
+    "id": "adventuring",
+    "title": "Adventuring",
+    "startPage": 82
+  },
+  {
+    "id": "combat",
+    "title": "Combat",
+    "startPage": 90
+  },
+  {
+    "id": "spellcasting",
+    "title": "Spellcasting",
+    "startPage": 100
+  },
+  {
+    "id": "spells",
+    "title": "Spells",
+    "startPage": 105
+  },
+  {
+    "id": "magic-items",
+    "title": "Magic Items",
+    "startPage": 206
+  },
+  {
+    "id": "monsters",
+    "title": "Monsters",
+    "startPage": 254
+  },
+  {
+    "id": "conditions",
+    "title": "Conditions",
+    "startPage": 358
+  },
+  {
+    "id": "planes",
+    "title": "The Planes of Existence",
+    "startPage": 363
+  }
+]

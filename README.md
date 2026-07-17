@@ -24,6 +24,7 @@
 - 先问你想玩什么，再进入流程
 - 按 D&D 5e 规则做裁定
 - 记录角色、NPC、任务、地点、战利品和战役状态
+- 维护追加式的战役剧本 `play-script.md`
 - 在 `campaigns/` 里保存长期存档
 - 需要时查询本地规则索引和设定资料
 
@@ -49,6 +50,8 @@
 继续灰烬边境，帮我推进当前场景。
 ```
 
+长团续跑时，AI 会优先读取当前战役目录里的 `play-script.md`，从最后一个 `当前状态` 和 `下一选择` 接着写。
+
 ### 规则查询
 
 ```text
@@ -59,6 +62,8 @@
 
 - `SKILL.md`：AI 扮演 DM 的主说明
 - `campaigns/`：战役存档
+- `campaigns/<campaign-id>/play-script.md`：该战役的追加式剧本记录
+- `campaigns/_template/play-script.md`：新战役的剧本模板
 - `references/`：通用规则、设定和同步说明
 - `rules/`：结构化规则与索引
 - `control-panel/`：本地管理界面

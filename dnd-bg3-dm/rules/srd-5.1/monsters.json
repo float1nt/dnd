@@ -1,0 +1,1314 @@
+[
+  {
+    "name": "Adult Black Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      281
+    ]
+  },
+  {
+    "name": "Adult Blue Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      283
+    ]
+  },
+  {
+    "name": "Adult Brass Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      291
+    ]
+  },
+  {
+    "name": "Adult Bronze Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      294
+    ]
+  },
+  {
+    "name": "Adult Copper Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      296
+    ]
+  },
+  {
+    "name": "Adult Gold Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      299
+    ]
+  },
+  {
+    "name": "Adult Green Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      285
+    ]
+  },
+  {
+    "name": "Adult Red Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      287
+    ]
+  },
+  {
+    "name": "Adult Silver Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      302
+    ]
+  },
+  {
+    "name": "Adult White Dragon",
+    "size": "Huge",
+    "type": "dragon",
+    "pages": [
+      289
+    ]
+  },
+  {
+    "name": "Angels Deva",
+    "size": "Medium",
+    "type": "celestial",
+    "pages": [
+      261
+    ]
+  },
+  {
+    "name": "Animated Objects Animated Armor",
+    "size": "Medium",
+    "type": "construct",
+    "pages": [
+      263
+    ]
+  },
+  {
+    "name": "Ankheg",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      264
+    ]
+  },
+  {
+    "name": "Azer",
+    "size": "Medium",
+    "type": "elemental",
+    "pages": [
+      265
+    ]
+  },
+  {
+    "name": "Bearded Devil",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      274
+    ]
+  },
+  {
+    "name": "Behir",
+    "size": "Huge",
+    "type": "monstrosity",
+    "pages": [
+      265
+    ]
+  },
+  {
+    "name": "Black Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      282
+    ]
+  },
+  {
+    "name": "Blue Dragon Ancient Blue Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      282
+    ]
+  },
+  {
+    "name": "Blue Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      284
+    ]
+  },
+  {
+    "name": "Bone Devil",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      275
+    ]
+  },
+  {
+    "name": "Brass Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      292
+    ]
+  },
+  {
+    "name": "Bronze Dragon Ancient Bronze Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      293
+    ]
+  },
+  {
+    "name": "Bronze Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      295
+    ]
+  },
+  {
+    "name": "Bugbear",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      266
+    ]
+  },
+  {
+    "name": "Bulette",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      266
+    ]
+  },
+  {
+    "name": "Chain Devil",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      275
+    ]
+  },
+  {
+    "name": "Chimera",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      267
+    ]
+  },
+  {
+    "name": "Chuul",
+    "size": "Large",
+    "type": "aberration",
+    "pages": [
+      267
+    ]
+  },
+  {
+    "name": "Cloaker",
+    "size": "Large",
+    "type": "aberration",
+    "pages": [
+      268
+    ]
+  },
+  {
+    "name": "Cockatrice",
+    "size": "Small",
+    "type": "monstrosity",
+    "pages": [
+      268
+    ]
+  },
+  {
+    "name": "Copper Dragon Ancient Copper Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      295
+    ]
+  },
+  {
+    "name": "Copper Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      298
+    ]
+  },
+  {
+    "name": "Couatl",
+    "size": "Medium",
+    "type": "celestial",
+    "pages": [
+      269
+    ]
+  },
+  {
+    "name": "Demons Balor",
+    "size": "Huge",
+    "type": "fiend",
+    "pages": [
+      270
+    ]
+  },
+  {
+    "name": "Devils Barbed Devil",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      274
+    ]
+  },
+  {
+    "name": "Dinosaurs Plesiosaurus",
+    "size": "Large",
+    "type": "beast",
+    "pages": [
+      279
+    ]
+  },
+  {
+    "name": "Doppelganger",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      279
+    ]
+  },
+  {
+    "name": "Dragon Turtle",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      303
+    ]
+  },
+  {
+    "name": "Dretch",
+    "size": "Small",
+    "type": "fiend",
+    "pages": [
+      270
+    ]
+  },
+  {
+    "name": "Drider",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      304
+    ]
+  },
+  {
+    "name": "Dryad",
+    "size": "Medium",
+    "type": "fey",
+    "pages": [
+      304
+    ]
+  },
+  {
+    "name": "Duergar",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      305
+    ]
+  },
+  {
+    "name": "Earth Elemental",
+    "size": "Large",
+    "type": "elemental",
+    "pages": [
+      306
+    ]
+  },
+  {
+    "name": "Efreeti",
+    "size": "Large",
+    "type": "elemental",
+    "pages": [
+      310
+    ]
+  },
+  {
+    "name": "Erinyes",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      276
+    ]
+  },
+  {
+    "name": "Ettercap",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      308
+    ]
+  },
+  {
+    "name": "Ettin",
+    "size": "Large",
+    "type": "giant",
+    "pages": [
+      308
+    ]
+  },
+  {
+    "name": "Fire Elemental",
+    "size": "Large",
+    "type": "elemental",
+    "pages": [
+      306
+    ]
+  },
+  {
+    "name": "Fire Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      312
+    ]
+  },
+  {
+    "name": "Flesh Golem",
+    "size": "Medium",
+    "type": "construct",
+    "pages": [
+      316
+    ]
+  },
+  {
+    "name": "Flying Sword",
+    "size": "Small",
+    "type": "construct",
+    "pages": [
+      264
+    ]
+  },
+  {
+    "name": "Frost Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      313
+    ]
+  },
+  {
+    "name": "Gelatinous Cube",
+    "size": "Large",
+    "type": "ooze",
+    "pages": [
+      337
+    ]
+  },
+  {
+    "name": "Ghoul",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      312
+    ]
+  },
+  {
+    "name": "Ghouls Ghast",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      311
+    ]
+  },
+  {
+    "name": "Giants Cloud Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      312
+    ]
+  },
+  {
+    "name": "Gibbering Mouther",
+    "size": "Medium",
+    "type": "aberration",
+    "pages": [
+      314
+    ]
+  },
+  {
+    "name": "Glabrezu",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      271
+    ]
+  },
+  {
+    "name": "Gnoll",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      314
+    ]
+  },
+  {
+    "name": "Goblin",
+    "size": "Small",
+    "type": "humanoid",
+    "pages": [
+      315
+    ]
+  },
+  {
+    "name": "Gold Dragon Ancient Gold Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      298
+    ]
+  },
+  {
+    "name": "Gold Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      300
+    ]
+  },
+  {
+    "name": "Golems Clay Golem",
+    "size": "Large",
+    "type": "construct",
+    "pages": [
+      315
+    ]
+  },
+  {
+    "name": "Gorgon",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      317
+    ]
+  },
+  {
+    "name": "Gray Ooze",
+    "size": "Medium",
+    "type": "ooze",
+    "pages": [
+      338
+    ]
+  },
+  {
+    "name": "Green Dragon Ancient Green Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      284
+    ]
+  },
+  {
+    "name": "Green Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      286
+    ]
+  },
+  {
+    "name": "Grick",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      318
+    ]
+  },
+  {
+    "name": "Griffon",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      318
+    ]
+  },
+  {
+    "name": "Grimlock",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      318
+    ]
+  },
+  {
+    "name": "Gynosphinx",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      348
+    ]
+  },
+  {
+    "name": "Harpy",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      321
+    ]
+  },
+  {
+    "name": "Hell Hound",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      321
+    ]
+  },
+  {
+    "name": "Hezrou",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      271
+    ]
+  },
+  {
+    "name": "Hill Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      313
+    ]
+  },
+  {
+    "name": "Hippogriff",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      322
+    ]
+  },
+  {
+    "name": "Hobgoblin",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      322
+    ]
+  },
+  {
+    "name": "Homunculus",
+    "size": "Tiny",
+    "type": "construct",
+    "pages": [
+      322
+    ]
+  },
+  {
+    "name": "Horned Devil",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      276
+    ]
+  },
+  {
+    "name": "Hydra",
+    "size": "Huge",
+    "type": "monstrosity",
+    "pages": [
+      323
+    ]
+  },
+  {
+    "name": "Ice Mephit",
+    "size": "Small",
+    "type": "elemental",
+    "pages": [
+      331
+    ]
+  },
+  {
+    "name": "Imp",
+    "size": "Tiny",
+    "type": "fiend",
+    "pages": [
+      277
+    ]
+  },
+  {
+    "name": "Kraken",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "pages": [
+      324
+    ]
+  },
+  {
+    "name": "Lemure",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      278
+    ]
+  },
+  {
+    "name": "Lich",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      325
+    ]
+  },
+  {
+    "name": "Lizardfolk",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      326
+    ]
+  },
+  {
+    "name": "Lycanthropes Werebear",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      326
+    ]
+  },
+  {
+    "name": "Magma Mephit",
+    "size": "Small",
+    "type": "elemental",
+    "pages": [
+      331
+    ]
+  },
+  {
+    "name": "Manticore",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      329
+    ]
+  },
+  {
+    "name": "Marilith",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      272
+    ]
+  },
+  {
+    "name": "Medusa",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      330
+    ]
+  },
+  {
+    "name": "Mephits Dust Mephit",
+    "size": "Small",
+    "type": "elemental",
+    "pages": [
+      330
+    ]
+  },
+  {
+    "name": "Merfolk",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      332
+    ]
+  },
+  {
+    "name": "Merrow",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      332
+    ]
+  },
+  {
+    "name": "Mimic",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      332
+    ]
+  },
+  {
+    "name": "Minotaur",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      333
+    ]
+  },
+  {
+    "name": "Minotaur Skeleton",
+    "size": "Large",
+    "type": "undead",
+    "pages": [
+      346
+    ]
+  },
+  {
+    "name": "Mummies Mummy",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      333
+    ]
+  },
+  {
+    "name": "Mummy Lord",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      334
+    ]
+  },
+  {
+    "name": "Nalfeshnee",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      272
+    ]
+  },
+  {
+    "name": "Night Hag",
+    "size": "Medium",
+    "type": "fiend",
+    "pages": [
+      319
+    ]
+  },
+  {
+    "name": "Nightmare",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      336
+    ]
+  },
+  {
+    "name": "Ochre Jelly",
+    "size": "Large",
+    "type": "ooze",
+    "pages": [
+      338
+    ]
+  },
+  {
+    "name": "Ogre Zombie",
+    "size": "Large",
+    "type": "undead",
+    "pages": [
+      357
+    ]
+  },
+  {
+    "name": "Oni",
+    "size": "Large",
+    "type": "giant",
+    "pages": [
+      336
+    ]
+  },
+  {
+    "name": "Oozes Black Pudding",
+    "size": "Large",
+    "type": "ooze",
+    "pages": [
+      337
+    ]
+  },
+  {
+    "name": "Orc",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      339
+    ]
+  },
+  {
+    "name": "Otyugh",
+    "size": "Large",
+    "type": "aberration",
+    "pages": [
+      339
+    ]
+  },
+  {
+    "name": "Owlbear",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      339
+    ]
+  },
+  {
+    "name": "Pit Fiend",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      278
+    ]
+  },
+  {
+    "name": "Planetar",
+    "size": "Large",
+    "type": "celestial",
+    "pages": [
+      262
+    ]
+  },
+  {
+    "name": "Pseudodragon",
+    "size": "Tiny",
+    "type": "dragon",
+    "pages": [
+      340
+    ]
+  },
+  {
+    "name": "Purple Worm",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "pages": [
+      340
+    ]
+  },
+  {
+    "name": "Quasit",
+    "size": "Tiny",
+    "type": "fiend",
+    "pages": [
+      273
+    ]
+  },
+  {
+    "name": "Red Dragon Ancient Red Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      286
+    ]
+  },
+  {
+    "name": "Red Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      288
+    ]
+  },
+  {
+    "name": "Remorhaz",
+    "size": "Huge",
+    "type": "monstrosity",
+    "pages": [
+      341
+    ]
+  },
+  {
+    "name": "Roc",
+    "size": "Gargantuan",
+    "type": "monstrosity",
+    "pages": [
+      342
+    ]
+  },
+  {
+    "name": "Roper",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      342
+    ]
+  },
+  {
+    "name": "Rug of Smothering",
+    "size": "Large",
+    "type": "construct",
+    "pages": [
+      264
+    ]
+  },
+  {
+    "name": "Rust Monster",
+    "size": "Medium",
+    "type": "monstrosity",
+    "pages": [
+      343
+    ]
+  },
+  {
+    "name": "Satyr",
+    "size": "Medium",
+    "type": "fey",
+    "pages": [
+      344
+    ]
+  },
+  {
+    "name": "Sea Hag",
+    "size": "Medium",
+    "type": "fey",
+    "pages": [
+      320
+    ]
+  },
+  {
+    "name": "Shadow",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      344
+    ]
+  },
+  {
+    "name": "Shambling Mound",
+    "size": "Large",
+    "type": "plant",
+    "pages": [
+      345
+    ]
+  },
+  {
+    "name": "Shield Guardian",
+    "size": "Large",
+    "type": "construct",
+    "pages": [
+      345
+    ]
+  },
+  {
+    "name": "Silver Dragon Ancient Silver Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      301
+    ]
+  },
+  {
+    "name": "Silver Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      303
+    ]
+  },
+  {
+    "name": "Skeletons Skeleton",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      346
+    ]
+  },
+  {
+    "name": "Solar",
+    "size": "Large",
+    "type": "celestial",
+    "pages": [
+      262
+    ]
+  },
+  {
+    "name": "Specter",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      346
+    ]
+  },
+  {
+    "name": "Sphinxes Androsphinx",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      347
+    ]
+  },
+  {
+    "name": "Spirit Naga",
+    "size": "Large",
+    "type": "monstrosity",
+    "pages": [
+      335
+    ]
+  },
+  {
+    "name": "Sprite",
+    "size": "Tiny",
+    "type": "fey",
+    "pages": [
+      348
+    ]
+  },
+  {
+    "name": "Steam Mephit",
+    "size": "Small",
+    "type": "elemental",
+    "pages": [
+      331
+    ]
+  },
+  {
+    "name": "Stirge",
+    "size": "Tiny",
+    "type": "beast",
+    "pages": [
+      349
+    ]
+  },
+  {
+    "name": "Stone Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      313
+    ]
+  },
+  {
+    "name": "Stone Golem",
+    "size": "Large",
+    "type": "construct",
+    "pages": [
+      317
+    ]
+  },
+  {
+    "name": "Storm Giant",
+    "size": "Huge",
+    "type": "giant",
+    "pages": [
+      313
+    ]
+  },
+  {
+    "name": "Treant",
+    "size": "Huge",
+    "type": "plant",
+    "pages": [
+      351
+    ]
+  },
+  {
+    "name": "Triceratops",
+    "size": "Huge",
+    "type": "beast",
+    "pages": [
+      279
+    ]
+  },
+  {
+    "name": "Troll",
+    "size": "Large",
+    "type": "giant",
+    "pages": [
+      351
+    ]
+  },
+  {
+    "name": "Tyrannosaurus Rex",
+    "size": "Huge",
+    "type": "beast",
+    "pages": [
+      279
+    ]
+  },
+  {
+    "name": "Violet Fungus",
+    "size": "Medium",
+    "type": "plant",
+    "pages": [
+      309
+    ]
+  },
+  {
+    "name": "Vrock",
+    "size": "Large",
+    "type": "fiend",
+    "pages": [
+      273
+    ]
+  },
+  {
+    "name": "Warhorse Skeleton",
+    "size": "Large",
+    "type": "undead",
+    "pages": [
+      346
+    ]
+  },
+  {
+    "name": "Water Elemental",
+    "size": "Large",
+    "type": "elemental",
+    "pages": [
+      307
+    ]
+  },
+  {
+    "name": "Wereboar",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      327
+    ]
+  },
+  {
+    "name": "Wererat",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      327
+    ]
+  },
+  {
+    "name": "Weretiger",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      328
+    ]
+  },
+  {
+    "name": "Werewolf",
+    "size": "Medium",
+    "type": "humanoid",
+    "pages": [
+      328
+    ]
+  },
+  {
+    "name": "White Dragon Ancient White Dragon",
+    "size": "Gargantuan",
+    "type": "dragon",
+    "pages": [
+      288
+    ]
+  },
+  {
+    "name": "White Dragon Wyrmling",
+    "size": "Medium",
+    "type": "dragon",
+    "pages": [
+      290
+    ]
+  },
+  {
+    "name": "Will-o’-Wisp",
+    "size": "Tiny",
+    "type": "undead",
+    "pages": [
+      355
+    ]
+  },
+  {
+    "name": "Wraith",
+    "size": "Medium",
+    "type": "undead",
+    "pages": [
+      355
+    ]
+  },
+  {
+    "name": "Wyvern",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      356
+    ]
+  },
+  {
+    "name": "Young Black Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      281
+    ]
+  },
+  {
+    "name": "Young Blue Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      283
+    ]
+  },
+  {
+    "name": "Young Brass Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      292
+    ]
+  },
+  {
+    "name": "Young Copper Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      297
+    ]
+  },
+  {
+    "name": "Young Gold Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      300
+    ]
+  },
+  {
+    "name": "Young Green Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      285
+    ]
+  },
+  {
+    "name": "Young Silver Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      303
+    ]
+  },
+  {
+    "name": "Young White Dragon",
+    "size": "Large",
+    "type": "dragon",
+    "pages": [
+      290
+    ]
+  }
+]

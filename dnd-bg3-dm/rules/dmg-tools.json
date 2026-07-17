@@ -1,0 +1,16 @@
+{
+  "version": "5e-inspired-dm-toolkit-v1",
+  "notice": "Original operational tools inspired by common 5e DM workflows; consult a lawful DMG for exact tables and optional rules.",
+  "entries": [
+    {"id":"encounter-thresholds","name":"遭遇难度","rule":"按队伍等级和人数记录 Easy、Medium、Hard、Deadly 阈值；先计算基础 XP，再处理多怪数量修正和特殊地形。","tags":["遭遇","XP"]},
+    {"id":"encounter-objective","name":"战斗目标","rule":"每场战斗至少记录一个敌方目标和一个可替代目标，例如守住门、拖延时间、抢走物品或保护 NPC。","tags":["遭遇设计"]},
+    {"id":"monster-morale","name":"怪物士气","rule":"怪物在首领倒下、半数同伴失去行动力或目标完成后重新判断战斗；智能敌人可以撤退、谈判或呼叫支援。","tags":["怪物","战术"]},
+    {"id":"treasure-budget","name":"宝藏预算","rule":"奖励按等级、风险、消耗和剧情重要性分层；记录金币、消耗品、永久物品和关系奖励。","tags":["宝藏","奖励"]},
+    {"id":"trap-design","name":"陷阱设计","rule":"每个陷阱记录线索、触发条件、发现 DC、解除 DC、失败后果和绕行路线；不要让单次失败直接终止主线。","tags":["陷阱","探索"]},
+    {"id":"chase-clock","name":"追逐时钟","rule":"记录双方距离、障碍、每轮可用动作和疲劳；每轮只改变一个可理解的状态。","tags":["追逐","移动"]},
+    {"id":"npc-template","name":"NPC 快速模板","rule":"每个重要 NPC 至少有目标、恐惧、资源、底线、当前态度和一句可识别的说话方式。","tags":["NPC"]},
+    {"id":"magic-item-identification","name":"魔法物品识别","rule":"玩家可以通过实验、短休、法术或专家确认物品；未确认的物品记录未知效果，不凭感觉补全。","tags":["魔法物品"]},
+    {"id":"downtime-clock","name":"城镇时间钟","rule":"把研究、制作、赚钱、治疗、势力行动和旅行写成时间钟；长休和 downtime 推进时结算钟表。","tags":["城镇","时间"]},
+    {"id":"adventure-beats","name":"冒险节拍","rule":"每个章节至少准备入口、升级压力、转折、可选路线、失败后的新局面和收束方式。","tags":["剧情","冒险"]}
+  ]
+}

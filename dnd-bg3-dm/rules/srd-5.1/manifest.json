@@ -1,0 +1,19 @@
+{
+  "source": "SRD_CC_v5.1.pdf",
+  "sourcePages": 403,
+  "version": "SRD 5.1",
+  "license": "CC-BY-4.0",
+  "attribution": "This work includes material taken from the System Reference Document 5.1 by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document.",
+  "generatedBy": "scripts/build-srd-index.py",
+  "files": [
+    "pages.jsonl",
+    "sections.json",
+    "lookup.json",
+    "classes.json",
+    "conditions.json",
+    "equipment.json",
+    "spells.json",
+    "monsters.json",
+    "manifest.json"
+  ]
+}

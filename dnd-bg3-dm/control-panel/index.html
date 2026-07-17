@@ -1,0 +1,229 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>D&D Rules-First DM Control Panel</title>
+    <meta name="description" content="Campaign manager for rules-first D&D tabletop sessions in original fantasy settings." />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">DM</div>
+          <div>
+            <div class="brand-title">D&D DM</div>
+            <div class="brand-subtitle">战役控制台</div>
+          </div>
+        </div>
+
+        <section class="panel">
+          <div class="panel-title">战役</div>
+          <div id="campaignList" class="list"></div>
+          <button id="newCampaignBtn" class="button button-primary">新建战役</button>
+        </section>
+
+        <section class="panel">
+          <div class="panel-title">快速操作</div>
+          <div class="button-row">
+            <button data-action="export" class="button">导出 JSON</button>
+            <label class="button button-file">
+              导入 JSON
+              <input id="importInput" type="file" accept="application/json" />
+            </label>
+          </div>
+          <div class="button-row">
+            <button data-action="export-bundle" class="button">导出同步包</button>
+            <label class="button button-file">
+              导入同步包
+              <input id="bundleInput" type="file" accept="application/json" />
+            </label>
+          </div>
+          <div class="button-row">
+            <button data-action="seed" class="button">填充示例</button>
+            <button data-action="reset" class="button button-danger">清空本地数据</button>
+          </div>
+        </section>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div>
+            <div class="eyebrow">当前战役</div>
+            <h1 id="campaignTitle">未选择战役</h1>
+            <p id="campaignMeta" class="muted">选择一个战役开始记录角色、任务、地点和地图。</p>
+          </div>
+          <div class="topbar-actions">
+            <button id="saveBtn" class="button button-primary">保存</button>
+          </div>
+        </header>
+
+        <section class="stats-grid">
+          <article class="stat-card"><span>角色</span><strong id="pcCount">0</strong></article>
+          <article class="stat-card"><span>任务</span><strong id="questCount">0</strong></article>
+          <article class="stat-card"><span>NPC</span><strong id="npcCount">0</strong></article>
+          <article class="stat-card"><span>地图</span><strong id="mapCount">0</strong></article>
+        </section>
+
+        <section class="workspace">
+          <div class="tabs" id="tabs">
+            <button class="tab is-active" data-tab="state">状态</button>
+            <button class="tab" data-tab="characters">角色</button>
+            <button class="tab" data-tab="quests">任务</button>
+            <button class="tab" data-tab="npcs">NPC</button>
+            <button class="tab" data-tab="locations">地点</button>
+            <button class="tab" data-tab="maps">地图</button>
+            <button class="tab" data-tab="sessions">会话</button>
+            <button class="tab" data-tab="rules">规则</button>
+          </div>
+
+          <section id="tab-state" class="tab-panel is-active">
+            <div class="grid-two">
+              <div class="card">
+                <div class="card-title">战役设置</div>
+                <div class="form-grid">
+                  <label>战役 ID <input id="campaignId" readonly /></label>
+                  <label>战役名 <input id="campaignName" /></label>
+                  <label>规则模式 <input id="rulesMode" /></label>
+                  <label>骰子模式 <input id="diceMode" /></label>
+                  <label>起始区域 <input id="startingRegion" /></label>
+                  <label>时间线 <input id="timePeriod" /></label>
+                </div>
+              </div>
+              <div class="card">
+                <div class="card-title">当前场景</div>
+                <label>摘要 <textarea id="sceneSummary" rows="10"></textarea></label>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-characters" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">角色列表</div>
+                <div id="characterList" class="list"></div>
+                <button id="addCharacterBtn" class="button button-primary">添加角色</button>
+              </div>
+              <div class="card">
+                <div class="card-title">角色卡</div>
+                <div id="characterEditor"></div>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-quests" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">任务</div>
+                <div id="questList" class="list"></div>
+                <button id="addQuestBtn" class="button button-primary">添加任务</button>
+              </div>
+              <div class="card">
+                <div class="card-title">任务详情</div>
+                <div id="questEditor"></div>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-npcs" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">NPC</div>
+                <div id="npcList" class="list"></div>
+                <button id="addNpcBtn" class="button button-primary">添加 NPC</button>
+              </div>
+              <div class="card">
+                <div class="card-title">NPC 详情</div>
+                <div id="npcEditor"></div>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-locations" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">地点</div>
+                <div id="locationList" class="list"></div>
+                <button id="addLocationBtn" class="button button-primary">添加地点</button>
+              </div>
+              <div class="card">
+                <div class="card-title">地点详情</div>
+                <div id="locationEditor"></div>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-maps" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">地图索引</div>
+                <div id="mapList" class="list"></div>
+                <button id="addMapBtn" class="button button-primary">添加地图</button>
+              </div>
+              <div class="card">
+                <div class="card-title">地图详情</div>
+                <div id="mapEditor"></div>
+              </div>
+            </div>
+          </section>
+
+          <section id="tab-rules" class="tab-panel">
+            <div class="card">
+              <div class="card-title">本地规则目录</div>
+              <div class="rule-toolbar">
+                <label>来源
+                  <select id="ruleSource">
+                    <option value="catalog">快速目录</option>
+                    <option value="srd">SRD 5.1</option>
+                    <option value="phb">PHB 2014 中文</option>
+                  </select>
+                </label>
+                <label>搜索规则 <input id="ruleSearch" placeholder="法术、状态、检定、专注..." /></label>
+                <label>类型
+                  <select id="ruleType">
+                    <option value="">全部</option>
+                    <option value="规则">规则</option>
+                    <option value="状态">状态</option>
+                    <option value="法术">法术</option>
+                    <option value="怪物">怪物</option>
+                    <option value="职业特性">职业特性</option>
+                    <option value="地图素材">地图素材</option>
+                  </select>
+                </label>
+              </div>
+              <div id="ruleList" class="rule-list"></div>
+              <p class="tiny">这是 SRD-safe 的快速裁定目录，不替代用户拥有的完整规则书；特殊规则必须记录在当前战役设置中。</p>
+            </div>
+          </section>
+
+          <section id="tab-sessions" class="tab-panel">
+            <div class="split">
+              <div class="card">
+                <div class="card-title">会话记录</div>
+                <div id="sessionList" class="list"></div>
+                <button id="addSessionBtn" class="button button-primary">添加记录</button>
+              </div>
+              <div class="card">
+                <div class="card-title">会话详情</div>
+                <div id="sessionEditor"></div>
+              </div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <template id="rowTemplate">
+      <button class="row">
+        <div class="row-main">
+          <strong class="row-title"></strong>
+          <span class="row-meta"></span>
+        </div>
+        <span class="row-pill"></span>
+      </button>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

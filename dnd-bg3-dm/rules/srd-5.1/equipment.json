@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Armor",
+    "pages": [
+      62,
+      63,
+      64,
+      71,
+      73
+    ]
+  },
+  {
+    "name": "Weapons",
+    "pages": [
+      62,
+      64,
+      65,
+      66,
+      73
+    ]
+  },
+  {
+    "name": "Adventuring Gear",
+    "pages": [
+      66,
+      68,
+      70,
+      73
+    ]
+  },
+  {
+    "name": "Tools",
+    "pages": [
+      63,
+      64,
+      68,
+      70,
+      71
+    ]
+  },
+  {
+    "name": "Mounts and Vehicles",
+    "pages": [
+      70,
+      71
+    ]
+  },
+  {
+    "name": "Expenses",
+    "pages": [
+      72,
+      73
+    ]
+  },
+  {
+    "name": "Trade Goods",
+    "pages": [
+      62,
+      68,
+      72
+    ]
+  }
+]

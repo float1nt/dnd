@@ -1,0 +1,98 @@
+[
+  {
+    "id": "introduction",
+    "title": "简介 / Introduction",
+    "pdfPage": 5,
+    "printedPage": 2
+  },
+  {
+    "id": "character-creation",
+    "title": "第 1 章：一步步创建角色",
+    "pdfPage": 10,
+    "printedPage": 7
+  },
+  {
+    "id": "races",
+    "title": "第 2 章：种族",
+    "pdfPage": 16,
+    "printedPage": 13
+  },
+  {
+    "id": "classes",
+    "title": "第 3 章：职业",
+    "pdfPage": 42,
+    "printedPage": 39
+  },
+  {
+    "id": "personality-background",
+    "title": "第 4 章：个性与背景",
+    "pdfPage": 113,
+    "printedPage": 110
+  },
+  {
+    "id": "equipment",
+    "title": "第 5 章：装备",
+    "pdfPage": 129,
+    "printedPage": 126
+  },
+  {
+    "id": "customization",
+    "title": "第 6 章：自定义选项",
+    "pdfPage": 143,
+    "printedPage": 140
+  },
+  {
+    "id": "ability-scores",
+    "title": "第 7 章：属性值应用",
+    "pdfPage": 151,
+    "printedPage": 148
+  },
+  {
+    "id": "adventuring",
+    "title": "第 8 章：冒险",
+    "pdfPage": 158,
+    "printedPage": 155
+  },
+  {
+    "id": "combat",
+    "title": "第 9 章：战斗",
+    "pdfPage": 166,
+    "printedPage": 163
+  },
+  {
+    "id": "spellcasting",
+    "title": "第 10 章：施法",
+    "pdfPage": 176,
+    "printedPage": 173
+  },
+  {
+    "id": "spells",
+    "title": "第 11 章：法术",
+    "pdfPage": 181,
+    "printedPage": 178
+  },
+  {
+    "id": "conditions",
+    "title": "附录 A：状态",
+    "pdfPage": 265,
+    "printedPage": 262
+  },
+  {
+    "id": "gods",
+    "title": "附录 B：多元宇宙诸神",
+    "pdfPage": 268,
+    "printedPage": 265
+  },
+  {
+    "id": "planes",
+    "title": "附录 C：存在位面",
+    "pdfPage": 274,
+    "printedPage": 271
+  },
+  {
+    "id": "creature-statistics",
+    "title": "附录 D：生物资料",
+    "pdfPage": 278,
+    "printedPage": 275
+  }
+]

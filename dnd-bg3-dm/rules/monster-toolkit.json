@@ -1,0 +1,13 @@
+{
+  "version": "5e-inspired-monster-toolkit-v1",
+  "notice": "Use SRD or a lawful Monster Manual for exact stat blocks. These are tactical scaffolds, not copied monster text.",
+  "entries": [
+    {"id":"brute","name":"蛮力型","role":"近战压迫","tactics":"靠近最脆弱目标；在狭窄地形封锁路线；生命值过半后考虑撤退或狂暴。","tags":["怪物角色"]},
+    {"id":"skirmisher","name":"游击型","role":"移动与骚扰","tactics":"攻击后换位；利用掩护；避免被前排锁定。","tags":["怪物角色"]},
+    {"id":"artillery","name":"炮台型","role":"远程伤害","tactics":"保持距离；优先攻击暴露施法者；被贴身后寻找掩护或撤退。","tags":["怪物角色"]},
+    {"id":"controller","name":"控制型","role":"改变位置与行动","tactics":"优先制造困难地形、束缚、恐惧或分隔；控制效果应有明显线索和解除路径。","tags":["怪物角色"]},
+    {"id":"leader","name":"首领型","role":"指挥与转折","tactics":"用动作或反应改变盟友行为；准备一次战场转折；不要靠临时加血延长战斗。","tags":["怪物角色"]},
+    {"id":"legendary","name":"传奇型","role":"单体 Boss","tactics":"为 Boss 提供每轮额外选择、地形压力和明确弱点；记录传奇动作、巢穴或阶段变化。","tags":["Boss"]},
+    {"id":"monster-record","name":"怪物记录格式","rule":"保存来源、版本、CR、AC、HP、速度、感官、抗性、免疫、被动、动作、反应、法术、战术、士气和战利品。","tags":["数据结构"]}
+  ]
+}

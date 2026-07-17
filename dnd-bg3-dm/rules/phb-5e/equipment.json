@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Armor",
+    "pages": [
+      129,
+      130,
+      131
+    ]
+  },
+  {
+    "name": "Weapons",
+    "pages": [
+      131,
+      133,
+      134
+    ]
+  },
+  {
+    "name": "Adventuring Gear",
+    "pages": [
+      133,
+      135
+    ]
+  },
+  {
+    "name": "Tools",
+    "pages": [
+      137,
+      138
+    ]
+  },
+  {
+    "name": "Mounts and Vehicles",
+    "pages": [
+      138
+    ]
+  },
+  {
+    "name": "Trade Goods",
+    "pages": [
+      130,
+      139
+    ]
+  },
+  {
+    "name": "Expenses",
+    "pages": [
+      139
+    ]
+  },
+  {
+    "name": "Trinkets",
+    "pages": [
+      141
+    ]
+  }
+]

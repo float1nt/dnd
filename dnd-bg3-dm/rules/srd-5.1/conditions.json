@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Blinded",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Charmed",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Deafened",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Frightened",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Grappled",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Incapacitated",
+    "pages": [
+      358,
+      359
+    ]
+  },
+  {
+    "name": "Invisible",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Paralyzed",
+    "pages": [
+      358
+    ]
+  },
+  {
+    "name": "Petrified",
+    "pages": [
+      359
+    ]
+  },
+  {
+    "name": "Poisoned",
+    "pages": [
+      359
+    ]
+  },
+  {
+    "name": "Prone",
+    "pages": [
+      358,
+      359
+    ]
+  },
+  {
+    "name": "Restrained",
+    "pages": [
+      359
+    ]
+  },
+  {
+    "name": "Stunned",
+    "pages": [
+      359
+    ]
+  },
+  {
+    "name": "Unconscious",
+    "pages": [
+      359
+    ]
+  }
+]

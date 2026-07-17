@@ -1,0 +1,2402 @@
+[
+  {
+    "name": "Acid Splash",
+    "level": "cantrip",
+    "school": "conjuration",
+    "pages": [
+      114
+    ]
+  },
+  {
+    "name": "Aid",
+    "level": "2nd-level",
+    "school": "abjuration",
+    "pages": [
+      114
+    ]
+  },
+  {
+    "name": "Alarm",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      114
+    ]
+  },
+  {
+    "name": "Alter Self",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      114
+    ]
+  },
+  {
+    "name": "Animal Friendship",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      115
+    ]
+  },
+  {
+    "name": "Animal Messenger",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      115
+    ]
+  },
+  {
+    "name": "Animal Shapes",
+    "level": "8th-level",
+    "school": "transmutation",
+    "pages": [
+      115
+    ]
+  },
+  {
+    "name": "Animate Dead",
+    "level": "3rd-level",
+    "school": "necromancy",
+    "pages": [
+      115
+    ]
+  },
+  {
+    "name": "Animate Objects",
+    "level": "5th-level",
+    "school": "transmutation",
+    "pages": [
+      116
+    ]
+  },
+  {
+    "name": "Antilife Shell",
+    "level": "5th-level",
+    "school": "abjuration",
+    "pages": [
+      116
+    ]
+  },
+  {
+    "name": "Antimagic Field",
+    "level": "8th-level",
+    "school": "abjuration",
+    "pages": [
+      117
+    ]
+  },
+  {
+    "name": "Arcane Eye",
+    "level": "4th-level",
+    "school": "divination",
+    "pages": [
+      118
+    ]
+  },
+  {
+    "name": "Arcane Hand",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      118
+    ]
+  },
+  {
+    "name": "Arcane Lock",
+    "level": "2nd-level",
+    "school": "abjuration",
+    "pages": [
+      118
+    ]
+  },
+  {
+    "name": "Arcane Sword",
+    "level": "7th-level",
+    "school": "evocation",
+    "pages": [
+      119
+    ]
+  },
+  {
+    "name": "Arcanist’s Magic Aura",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      119
+    ]
+  },
+  {
+    "name": "Astral Projection",
+    "level": "9th-level",
+    "school": "necromancy",
+    "pages": [
+      119
+    ]
+  },
+  {
+    "name": "Augury",
+    "level": "2nd-level",
+    "school": "divination",
+    "pages": [
+      120
+    ]
+  },
+  {
+    "name": "Awaken",
+    "level": "5th-level",
+    "school": "transmutation",
+    "pages": [
+      120
+    ]
+  },
+  {
+    "name": "Bane",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      120
+    ]
+  },
+  {
+    "name": "Banishment",
+    "level": "4th-level",
+    "school": "abjuration",
+    "pages": [
+      120
+    ]
+  },
+  {
+    "name": "Barkskin",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      121
+    ]
+  },
+  {
+    "name": "Beacon of Hope",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      121
+    ]
+  },
+  {
+    "name": "Bestow Curse",
+    "level": "3rd-level",
+    "school": "necromancy",
+    "pages": [
+      121
+    ]
+  },
+  {
+    "name": "Black Tentacles",
+    "level": "4th-level",
+    "school": "conjuration",
+    "pages": [
+      121
+    ]
+  },
+  {
+    "name": "Bless",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      122
+    ]
+  },
+  {
+    "name": "Blight",
+    "level": "4th-level",
+    "school": "necromancy",
+    "pages": [
+      122
+    ]
+  },
+  {
+    "name": "Blink",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      122
+    ]
+  },
+  {
+    "name": "Blur",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "name": "Branding Smite",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "name": "Burning Hands",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "name": "Call Lightning",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "name": "Calm Emotions",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      123
+    ]
+  },
+  {
+    "name": "Chain Lightning",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      124
+    ]
+  },
+  {
+    "name": "Charm Person",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      124
+    ]
+  },
+  {
+    "name": "Chill Touch",
+    "level": "cantrip",
+    "school": "necromancy",
+    "pages": [
+      124
+    ]
+  },
+  {
+    "name": "Circle of Death",
+    "level": "6th-level",
+    "school": "necromancy",
+    "pages": [
+      124
+    ]
+  },
+  {
+    "name": "Clairvoyance",
+    "level": "3rd-level",
+    "school": "divination",
+    "pages": [
+      124
+    ]
+  },
+  {
+    "name": "Clone",
+    "level": "8th-level",
+    "school": "necromancy",
+    "pages": [
+      125
+    ]
+  },
+  {
+    "name": "Cloudkill",
+    "level": "5th-level",
+    "school": "conjuration",
+    "pages": [
+      125
+    ]
+  },
+  {
+    "name": "Color Spray",
+    "level": "1st-level",
+    "school": "illusion",
+    "pages": [
+      125
+    ]
+  },
+  {
+    "name": "Command",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      125
+    ]
+  },
+  {
+    "name": "Commune",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      126
+    ]
+  },
+  {
+    "name": "Commune with Nature",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      126
+    ]
+  },
+  {
+    "name": "Comprehend Languages",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      126
+    ]
+  },
+  {
+    "name": "Compulsion",
+    "level": "4th-level",
+    "school": "enchantment",
+    "pages": [
+      126
+    ]
+  },
+  {
+    "name": "Cone of Cold",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      127
+    ]
+  },
+  {
+    "name": "Confusion",
+    "level": "4th-level",
+    "school": "enchantment",
+    "pages": [
+      127
+    ]
+  },
+  {
+    "name": "Conjure Animals",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      127
+    ]
+  },
+  {
+    "name": "Conjure Celestial",
+    "level": "7th-level",
+    "school": "conjuration",
+    "pages": [
+      127
+    ]
+  },
+  {
+    "name": "Conjure Elemental",
+    "level": "5th-level",
+    "school": "conjuration",
+    "pages": [
+      128
+    ]
+  },
+  {
+    "name": "Conjure Fey",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      128
+    ]
+  },
+  {
+    "name": "Conjure Minor Elementals",
+    "level": "4th-level",
+    "school": "conjuration",
+    "pages": [
+      128
+    ]
+  },
+  {
+    "name": "Conjure Woodland Beings",
+    "level": "4th-level",
+    "school": "conjuration",
+    "pages": [
+      129
+    ]
+  },
+  {
+    "name": "Contact Other Plane",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      129
+    ]
+  },
+  {
+    "name": "Contagion",
+    "level": "5th-level",
+    "school": "necromancy",
+    "pages": [
+      129
+    ]
+  },
+  {
+    "name": "Contingency",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      130
+    ]
+  },
+  {
+    "name": "Continual Flame",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      130
+    ]
+  },
+  {
+    "name": "Control Water",
+    "level": "4th-level",
+    "school": "transmutation",
+    "pages": [
+      130
+    ]
+  },
+  {
+    "name": "Control Weather",
+    "level": "8th-level",
+    "school": "transmutation",
+    "pages": [
+      131
+    ]
+  },
+  {
+    "name": "Create Food and Water",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      131
+    ]
+  },
+  {
+    "name": "Create Undead",
+    "level": "6th-level",
+    "school": "necromancy",
+    "pages": [
+      132
+    ]
+  },
+  {
+    "name": "Creation",
+    "level": "5th-level",
+    "school": "illusion",
+    "pages": [
+      132
+    ]
+  },
+  {
+    "name": "Cure Wounds",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      132
+    ]
+  },
+  {
+    "name": "Dancing Lights",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Darkness",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Darkvision",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Daylight",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Death Ward",
+    "level": "4th-level",
+    "school": "abjuration",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "level": "7th-level",
+    "school": "evocation",
+    "pages": [
+      133
+    ]
+  },
+  {
+    "name": "Demiplane",
+    "level": "8th-level",
+    "school": "conjuration",
+    "pages": [
+      134
+    ]
+  },
+  {
+    "name": "Detect Evil and Good",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      134
+    ]
+  },
+  {
+    "name": "Detect Magic",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      134
+    ]
+  },
+  {
+    "name": "Detect Poison and Disease",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      134
+    ]
+  },
+  {
+    "name": "Dimension Door",
+    "level": "4th-level",
+    "school": "conjuration",
+    "pages": [
+      135
+    ]
+  },
+  {
+    "name": "Disguise Self",
+    "level": "1st-level",
+    "school": "illusion",
+    "pages": [
+      135
+    ]
+  },
+  {
+    "name": "Disintegrate",
+    "level": "6th-level",
+    "school": "transmutation",
+    "pages": [
+      135
+    ]
+  },
+  {
+    "name": "Dispel Evil and Good",
+    "level": "5th-level",
+    "school": "abjuration",
+    "pages": [
+      136
+    ]
+  },
+  {
+    "name": "Dispel Magic",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      136
+    ]
+  },
+  {
+    "name": "Divination",
+    "level": "4th-level",
+    "school": "divination",
+    "pages": [
+      136
+    ]
+  },
+  {
+    "name": "Divine Favor",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      136
+    ]
+  },
+  {
+    "name": "Divine Word",
+    "level": "7th-level",
+    "school": "evocation",
+    "pages": [
+      137
+    ]
+  },
+  {
+    "name": "Dominate Beast",
+    "level": "4th-level",
+    "school": "enchantment",
+    "pages": [
+      137
+    ]
+  },
+  {
+    "name": "Dominate Monster",
+    "level": "8th-level",
+    "school": "enchantment",
+    "pages": [
+      137
+    ]
+  },
+  {
+    "name": "Dominate Person",
+    "level": "5th-level",
+    "school": "enchantment",
+    "pages": [
+      138
+    ]
+  },
+  {
+    "name": "Dream",
+    "level": "5th-level",
+    "school": "illusion",
+    "pages": [
+      138
+    ]
+  },
+  {
+    "name": "Druidcraft",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      138
+    ]
+  },
+  {
+    "name": "Earthquake",
+    "level": "8th-level",
+    "school": "evocation",
+    "pages": [
+      139
+    ]
+  },
+  {
+    "name": "Eldritch Blast",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      139
+    ]
+  },
+  {
+    "name": "Enhance Ability",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      139
+    ]
+  },
+  {
+    "name": "Entangle",
+    "level": "1st-level",
+    "school": "conjuration",
+    "pages": [
+      140
+    ]
+  },
+  {
+    "name": "Enthrall",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      140
+    ]
+  },
+  {
+    "name": "Etherealness",
+    "level": "7th-level",
+    "school": "transmutation",
+    "pages": [
+      140
+    ]
+  },
+  {
+    "name": "Expeditious Retreat",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      141
+    ]
+  },
+  {
+    "name": "Eyebite",
+    "level": "6th-level",
+    "school": "necromancy",
+    "pages": [
+      141
+    ]
+  },
+  {
+    "name": "Fabricate",
+    "level": "4th-level",
+    "school": "transmutation",
+    "pages": [
+      141
+    ]
+  },
+  {
+    "name": "Faerie Fire",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      141
+    ]
+  },
+  {
+    "name": "False Life",
+    "level": "1st-level",
+    "school": "necromancy",
+    "pages": [
+      142
+    ]
+  },
+  {
+    "name": "Fear",
+    "level": "3rd-level",
+    "school": "illusion",
+    "pages": [
+      142
+    ]
+  },
+  {
+    "name": "Feather Fall",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      142
+    ]
+  },
+  {
+    "name": "Feeblemind",
+    "level": "8th-level",
+    "school": "enchantment",
+    "pages": [
+      142
+    ]
+  },
+  {
+    "name": "Find Steed",
+    "level": "2nd-level",
+    "school": "conjuration",
+    "pages": [
+      143
+    ]
+  },
+  {
+    "name": "Find Traps",
+    "level": "2nd-level",
+    "school": "divination",
+    "pages": [
+      144
+    ]
+  },
+  {
+    "name": "Find the Path",
+    "level": "6th-level",
+    "school": "divination",
+    "pages": [
+      143
+    ]
+  },
+  {
+    "name": "Finger of Death",
+    "level": "7th-level",
+    "school": "necromancy",
+    "pages": [
+      144
+    ]
+  },
+  {
+    "name": "Fire Bolt",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      144
+    ]
+  },
+  {
+    "name": "Fire Shield",
+    "level": "4th-level",
+    "school": "evocation",
+    "pages": [
+      144
+    ]
+  },
+  {
+    "name": "Fireball",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      144
+    ]
+  },
+  {
+    "name": "Flame Blade",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      145
+    ]
+  },
+  {
+    "name": "Flame Strike",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      145
+    ]
+  },
+  {
+    "name": "Flaming Sphere",
+    "level": "2nd-level",
+    "school": "conjuration",
+    "pages": [
+      145
+    ]
+  },
+  {
+    "name": "Flesh to Stone",
+    "level": "6th-level",
+    "school": "transmutation",
+    "pages": [
+      145
+    ]
+  },
+  {
+    "name": "Floating Disk",
+    "level": "1st-level",
+    "school": "conjuration",
+    "pages": [
+      146
+    ]
+  },
+  {
+    "name": "Fly",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      146
+    ]
+  },
+  {
+    "name": "Fog Cloud",
+    "level": "1st-level",
+    "school": "conjuration",
+    "pages": [
+      146
+    ]
+  },
+  {
+    "name": "Forbiddance",
+    "level": "6th-level",
+    "school": "abjuration",
+    "pages": [
+      146
+    ]
+  },
+  {
+    "name": "Foresight",
+    "level": "9th-level",
+    "school": "divination",
+    "pages": [
+      147
+    ]
+  },
+  {
+    "name": "Freedom of Movement",
+    "level": "4th-level",
+    "school": "abjuration",
+    "pages": [
+      147
+    ]
+  },
+  {
+    "name": "Freezing Sphere",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      147
+    ]
+  },
+  {
+    "name": "Gaseous Form",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      148
+    ]
+  },
+  {
+    "name": "Gate",
+    "level": "9th-level",
+    "school": "conjuration",
+    "pages": [
+      148
+    ]
+  },
+  {
+    "name": "Geas",
+    "level": "5th-level",
+    "school": "enchantment",
+    "pages": [
+      148
+    ]
+  },
+  {
+    "name": "Gentle Repose",
+    "level": "2nd-level",
+    "school": "necromancy",
+    "pages": [
+      148
+    ]
+  },
+  {
+    "name": "Giant Insect",
+    "level": "4th-level",
+    "school": "transmutation",
+    "pages": [
+      149
+    ]
+  },
+  {
+    "name": "Glibness",
+    "level": "8th-level",
+    "school": "transmutation",
+    "pages": [
+      149
+    ]
+  },
+  {
+    "name": "Globe of Invulnerability",
+    "level": "6th-level",
+    "school": "abjuration",
+    "pages": [
+      149
+    ]
+  },
+  {
+    "name": "Glyph of Warding",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      149
+    ]
+  },
+  {
+    "name": "Goodberry",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      150
+    ]
+  },
+  {
+    "name": "Grease",
+    "level": "1st-level",
+    "school": "conjuration",
+    "pages": [
+      150
+    ]
+  },
+  {
+    "name": "Greater Invisibility",
+    "level": "4th-level",
+    "school": "illusion",
+    "pages": [
+      150
+    ]
+  },
+  {
+    "name": "Greater Restoration",
+    "level": "5th-level",
+    "school": "abjuration",
+    "pages": [
+      150
+    ]
+  },
+  {
+    "name": "Guards and Wards",
+    "level": "6th-level",
+    "school": "abjuration",
+    "pages": [
+      151
+    ]
+  },
+  {
+    "name": "Guidance",
+    "level": "cantrip",
+    "school": "divination",
+    "pages": [
+      151
+    ]
+  },
+  {
+    "name": "Guiding Bolt",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      151
+    ]
+  },
+  {
+    "name": "Gust of Wind",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      152
+    ]
+  },
+  {
+    "name": "Hallow",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      152
+    ]
+  },
+  {
+    "name": "Hallucinatory Terrain",
+    "level": "4th-level",
+    "school": "illusion",
+    "pages": [
+      152
+    ]
+  },
+  {
+    "name": "Harm",
+    "level": "6th-level",
+    "school": "necromancy",
+    "pages": [
+      153
+    ]
+  },
+  {
+    "name": "Haste",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      153
+    ]
+  },
+  {
+    "name": "Heal",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      153
+    ]
+  },
+  {
+    "name": "Healing Word",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      153
+    ]
+  },
+  {
+    "name": "Heat Metal",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      153
+    ]
+  },
+  {
+    "name": "Hellish Rebuke",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Heroes’ Feast",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Heroism",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Hideous Laughter",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Hold Monster",
+    "level": "5th-level",
+    "school": "enchantment",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Hold Person",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      154
+    ]
+  },
+  {
+    "name": "Holy Aura",
+    "level": "8th-level",
+    "school": "abjuration",
+    "pages": [
+      155
+    ]
+  },
+  {
+    "name": "Hunter’s Mark",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      155
+    ]
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "level": "3rd-level",
+    "school": "illusion",
+    "pages": [
+      155
+    ]
+  },
+  {
+    "name": "Ice Storm",
+    "level": "4th-level",
+    "school": "evocation",
+    "pages": [
+      155
+    ]
+  },
+  {
+    "name": "Identify",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      155
+    ]
+  },
+  {
+    "name": "Illusory Script",
+    "level": "1st-level",
+    "school": "illusion",
+    "pages": [
+      156
+    ]
+  },
+  {
+    "name": "Imprisonment",
+    "level": "9th-level",
+    "school": "abjuration",
+    "pages": [
+      156
+    ]
+  },
+  {
+    "name": "Incendiary Cloud",
+    "level": "8th-level",
+    "school": "conjuration",
+    "pages": [
+      157
+    ]
+  },
+  {
+    "name": "Inflict Wounds",
+    "level": "1st-level",
+    "school": "necromancy",
+    "pages": [
+      157
+    ]
+  },
+  {
+    "name": "Insect Plague",
+    "level": "5th-level",
+    "school": "conjuration",
+    "pages": [
+      157
+    ]
+  },
+  {
+    "name": "Instant Summons",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      157
+    ]
+  },
+  {
+    "name": "Invisibility",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      157
+    ]
+  },
+  {
+    "name": "Irresistible Dance",
+    "level": "6th-level",
+    "school": "enchantment",
+    "pages": [
+      158
+    ]
+  },
+  {
+    "name": "Jump",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      158
+    ]
+  },
+  {
+    "name": "Knock",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      158
+    ]
+  },
+  {
+    "name": "Legend Lore",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      158
+    ]
+  },
+  {
+    "name": "Levitate",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      158
+    ]
+  },
+  {
+    "name": "Light",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      159
+    ]
+  },
+  {
+    "name": "Lightning Bolt",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      159
+    ]
+  },
+  {
+    "name": "Locate Animals or Plants",
+    "level": "2nd-level",
+    "school": "divination",
+    "pages": [
+      159
+    ]
+  },
+  {
+    "name": "Locate Creature",
+    "level": "4th-level",
+    "school": "divination",
+    "pages": [
+      159
+    ]
+  },
+  {
+    "name": "Locate Object",
+    "level": "2nd-level",
+    "school": "divination",
+    "pages": [
+      159
+    ]
+  },
+  {
+    "name": "Longstrider",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      160
+    ]
+  },
+  {
+    "name": "Mage Armor",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      160
+    ]
+  },
+  {
+    "name": "Mage Hand",
+    "level": "cantrip",
+    "school": "conjuration",
+    "pages": [
+      160
+    ]
+  },
+  {
+    "name": "Magic Circle",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      160
+    ]
+  },
+  {
+    "name": "Magic Jar",
+    "level": "6th-level",
+    "school": "necromancy",
+    "pages": [
+      160
+    ]
+  },
+  {
+    "name": "Magic Missile",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      161
+    ]
+  },
+  {
+    "name": "Magic Mouth",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      161
+    ]
+  },
+  {
+    "name": "Magic Weapon",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      161
+    ]
+  },
+  {
+    "name": "Magnificent Mansion",
+    "level": "7th-level",
+    "school": "conjuration",
+    "pages": [
+      162
+    ]
+  },
+  {
+    "name": "Major Image",
+    "level": "3rd-level",
+    "school": "illusion",
+    "pages": [
+      162
+    ]
+  },
+  {
+    "name": "Mass Cure Wounds",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      162
+    ]
+  },
+  {
+    "name": "Mass Healing Word",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      163
+    ]
+  },
+  {
+    "name": "Mass Suggestion",
+    "level": "6th-level",
+    "school": "enchantment",
+    "pages": [
+      163
+    ]
+  },
+  {
+    "name": "Maze",
+    "level": "8th-level",
+    "school": "conjuration",
+    "pages": [
+      163
+    ]
+  },
+  {
+    "name": "Meld into Stone",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      163
+    ]
+  },
+  {
+    "name": "Mending",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      164
+    ]
+  },
+  {
+    "name": "Message",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      164
+    ]
+  },
+  {
+    "name": "Meteor Swarm",
+    "level": "9th-level",
+    "school": "evocation",
+    "pages": [
+      164
+    ]
+  },
+  {
+    "name": "Mind Blank",
+    "level": "8th-level",
+    "school": "abjuration",
+    "pages": [
+      164
+    ]
+  },
+  {
+    "name": "Minor Illusion",
+    "level": "cantrip",
+    "school": "illusion",
+    "pages": [
+      164
+    ]
+  },
+  {
+    "name": "Mirage Arcane",
+    "level": "7th-level",
+    "school": "illusion",
+    "pages": [
+      165
+    ]
+  },
+  {
+    "name": "Mirror Image",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      165
+    ]
+  },
+  {
+    "name": "Mislead",
+    "level": "5th-level",
+    "school": "illusion",
+    "pages": [
+      165
+    ]
+  },
+  {
+    "name": "Misty Step",
+    "level": "2nd-level",
+    "school": "conjuration",
+    "pages": [
+      165
+    ]
+  },
+  {
+    "name": "Modify Memory",
+    "level": "5th-level",
+    "school": "enchantment",
+    "pages": [
+      166
+    ]
+  },
+  {
+    "name": "Moonbeam",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      166
+    ]
+  },
+  {
+    "name": "Move Earth",
+    "level": "6th-level",
+    "school": "transmutation",
+    "pages": [
+      166
+    ]
+  },
+  {
+    "name": "Nondetection",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "name": "Pass without Trace",
+    "level": "2nd-level",
+    "school": "abjuration",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "name": "Passwall",
+    "level": "5th-level",
+    "school": "transmutation",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "name": "Phantasmal Killer",
+    "level": "4th-level",
+    "school": "illusion",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "name": "Phantom Steed",
+    "level": "3rd-level",
+    "school": "illusion",
+    "pages": [
+      167
+    ]
+  },
+  {
+    "name": "Planar Ally",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      168
+    ]
+  },
+  {
+    "name": "Planar Binding",
+    "level": "5th-level",
+    "school": "abjuration",
+    "pages": [
+      168
+    ]
+  },
+  {
+    "name": "Plane Shift",
+    "level": "7th-level",
+    "school": "conjuration",
+    "pages": [
+      168
+    ]
+  },
+  {
+    "name": "Plant Growth",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      169
+    ]
+  },
+  {
+    "name": "Poison Spray",
+    "level": "cantrip",
+    "school": "conjuration",
+    "pages": [
+      169
+    ]
+  },
+  {
+    "name": "Polymorph",
+    "level": "4th-level",
+    "school": "transmutation",
+    "pages": [
+      169
+    ]
+  },
+  {
+    "name": "Power Word Stun",
+    "level": "8th-level",
+    "school": "enchantment",
+    "pages": [
+      170
+    ]
+  },
+  {
+    "name": "Prayer of Healing",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      170
+    ]
+  },
+  {
+    "name": "Prestidigitation",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      170
+    ]
+  },
+  {
+    "name": "Prismatic Spray",
+    "level": "7th-level",
+    "school": "evocation",
+    "pages": [
+      170
+    ]
+  },
+  {
+    "name": "Prismatic Wall",
+    "level": "9th-level",
+    "school": "abjuration",
+    "pages": [
+      171
+    ]
+  },
+  {
+    "name": "Private Sanctum",
+    "level": "4th-level",
+    "school": "abjuration",
+    "pages": [
+      171
+    ]
+  },
+  {
+    "name": "Produce Flame",
+    "level": "cantrip",
+    "school": "conjuration",
+    "pages": [
+      172
+    ]
+  },
+  {
+    "name": "Programmed Illusion",
+    "level": "6th-level",
+    "school": "illusion",
+    "pages": [
+      172
+    ]
+  },
+  {
+    "name": "Project Image",
+    "level": "7th-level",
+    "school": "illusion",
+    "pages": [
+      172
+    ]
+  },
+  {
+    "name": "Protection from Energy",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      173
+    ]
+  },
+  {
+    "name": "Protection from Evil and Good",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      173
+    ]
+  },
+  {
+    "name": "Protection from Poison",
+    "level": "2nd-level",
+    "school": "abjuration",
+    "pages": [
+      173
+    ]
+  },
+  {
+    "name": "Purify Food and Drink",
+    "level": "1st-level",
+    "school": "transmutation",
+    "pages": [
+      173
+    ]
+  },
+  {
+    "name": "Raise Dead",
+    "level": "5th-level",
+    "school": "necromancy",
+    "pages": [
+      173
+    ]
+  },
+  {
+    "name": "Ray of Frost",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      174
+    ]
+  },
+  {
+    "name": "Regenerate",
+    "level": "7th-level",
+    "school": "transmutation",
+    "pages": [
+      174
+    ]
+  },
+  {
+    "name": "Reincarnate",
+    "level": "5th-level",
+    "school": "transmutation",
+    "pages": [
+      174
+    ]
+  },
+  {
+    "name": "Remove Curse",
+    "level": "3rd-level",
+    "school": "abjuration",
+    "pages": [
+      174
+    ]
+  },
+  {
+    "name": "Resilient Sphere",
+    "level": "4th-level",
+    "school": "evocation",
+    "pages": [
+      175
+    ]
+  },
+  {
+    "name": "Resistance",
+    "level": "cantrip",
+    "school": "abjuration",
+    "pages": [
+      175
+    ]
+  },
+  {
+    "name": "Resurrection",
+    "level": "7th-level",
+    "school": "necromancy",
+    "pages": [
+      175
+    ]
+  },
+  {
+    "name": "Reverse Gravity",
+    "level": "7th-level",
+    "school": "transmutation",
+    "pages": [
+      175
+    ]
+  },
+  {
+    "name": "Revivify",
+    "level": "3rd-level",
+    "school": "necromancy",
+    "pages": [
+      175
+    ]
+  },
+  {
+    "name": "Rope Trick",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      176
+    ]
+  },
+  {
+    "name": "Sacred Flame",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      176
+    ]
+  },
+  {
+    "name": "Sanctuary",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      176
+    ]
+  },
+  {
+    "name": "Scorching Ray",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      176
+    ]
+  },
+  {
+    "name": "Scrying",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      176
+    ]
+  },
+  {
+    "name": "Secret Chest",
+    "level": "4th-level",
+    "school": "conjuration",
+    "pages": [
+      177
+    ]
+  },
+  {
+    "name": "See Invisibility",
+    "level": "2nd-level",
+    "school": "divination",
+    "pages": [
+      177
+    ]
+  },
+  {
+    "name": "Seeming",
+    "level": "5th-level",
+    "school": "illusion",
+    "pages": [
+      177
+    ]
+  },
+  {
+    "name": "Sending",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      177
+    ]
+  },
+  {
+    "name": "Sequester",
+    "level": "7th-level",
+    "school": "transmutation",
+    "pages": [
+      178
+    ]
+  },
+  {
+    "name": "Shapechange",
+    "level": "9th-level",
+    "school": "transmutation",
+    "pages": [
+      178
+    ]
+  },
+  {
+    "name": "Shatter",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      178
+    ]
+  },
+  {
+    "name": "Shield",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Shield of Faith",
+    "level": "1st-level",
+    "school": "abjuration",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Shillelagh",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Shocking Grasp",
+    "level": "cantrip",
+    "school": "evocation",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Silence",
+    "level": "2nd-level",
+    "school": "illusion",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Silent Image",
+    "level": "1st-level",
+    "school": "illusion",
+    "pages": [
+      179
+    ]
+  },
+  {
+    "name": "Simulacrum",
+    "level": "7th-level",
+    "school": "illusion",
+    "pages": [
+      180
+    ]
+  },
+  {
+    "name": "Sleep",
+    "level": "1st-level",
+    "school": "enchantment",
+    "pages": [
+      180
+    ]
+  },
+  {
+    "name": "Sleet Storm",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      180
+    ]
+  },
+  {
+    "name": "Slow",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      180
+    ]
+  },
+  {
+    "name": "Spare the Dying",
+    "level": "cantrip",
+    "school": "necromancy",
+    "pages": [
+      181
+    ]
+  },
+  {
+    "name": "Speak with Animals",
+    "level": "1st-level",
+    "school": "divination",
+    "pages": [
+      181
+    ]
+  },
+  {
+    "name": "Speak with Dead",
+    "level": "3rd-level",
+    "school": "necromancy",
+    "pages": [
+      181
+    ]
+  },
+  {
+    "name": "Speak with Plants",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      181
+    ]
+  },
+  {
+    "name": "Spike Growth",
+    "level": "2nd-level",
+    "school": "transmutation",
+    "pages": [
+      182
+    ]
+  },
+  {
+    "name": "Spirit Guardians",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      182
+    ]
+  },
+  {
+    "name": "Spiritual Weapon",
+    "level": "2nd-level",
+    "school": "evocation",
+    "pages": [
+      182
+    ]
+  },
+  {
+    "name": "Stinking Cloud",
+    "level": "3rd-level",
+    "school": "conjuration",
+    "pages": [
+      182
+    ]
+  },
+  {
+    "name": "Stone Shape",
+    "level": "4th-level",
+    "school": "transmutation",
+    "pages": [
+      183
+    ]
+  },
+  {
+    "name": "Stoneskin",
+    "level": "4th-level",
+    "school": "abjuration",
+    "pages": [
+      183
+    ]
+  },
+  {
+    "name": "Storm of Vengeance",
+    "level": "9th-level",
+    "school": "conjuration",
+    "pages": [
+      183
+    ]
+  },
+  {
+    "name": "Suggestion",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      183
+    ]
+  },
+  {
+    "name": "Sunbeam",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      184
+    ]
+  },
+  {
+    "name": "Sunburst",
+    "level": "8th-level",
+    "school": "evocation",
+    "pages": [
+      184
+    ]
+  },
+  {
+    "name": "Symbol",
+    "level": "7th-level",
+    "school": "abjuration",
+    "pages": [
+      184
+    ]
+  },
+  {
+    "name": "Telekinesis",
+    "level": "5th-level",
+    "school": "transmutation",
+    "pages": [
+      185
+    ]
+  },
+  {
+    "name": "Telepathic Bond",
+    "level": "5th-level",
+    "school": "divination",
+    "pages": [
+      185
+    ]
+  },
+  {
+    "name": "Teleport",
+    "level": "7th-level",
+    "school": "conjuration",
+    "pages": [
+      185
+    ]
+  },
+  {
+    "name": "Teleportation Circle",
+    "level": "5th-level",
+    "school": "conjuration",
+    "pages": [
+      186
+    ]
+  },
+  {
+    "name": "Thaumaturgy",
+    "level": "cantrip",
+    "school": "transmutation",
+    "pages": [
+      187
+    ]
+  },
+  {
+    "name": "Thunderwave",
+    "level": "1st-level",
+    "school": "evocation",
+    "pages": [
+      187
+    ]
+  },
+  {
+    "name": "Time Stop",
+    "level": "9th-level",
+    "school": "transmutation",
+    "pages": [
+      187
+    ]
+  },
+  {
+    "name": "Tiny Hut",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      187
+    ]
+  },
+  {
+    "name": "Tongues",
+    "level": "3rd-level",
+    "school": "divination",
+    "pages": [
+      187
+    ]
+  },
+  {
+    "name": "Transport via Plants",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      188
+    ]
+  },
+  {
+    "name": "Tree Stride",
+    "level": "5th-level",
+    "school": "conjuration",
+    "pages": [
+      188
+    ]
+  },
+  {
+    "name": "True Polymorph",
+    "level": "9th-level",
+    "school": "transmutation",
+    "pages": [
+      188
+    ]
+  },
+  {
+    "name": "True Seeing",
+    "level": "6th-level",
+    "school": "divination",
+    "pages": [
+      189
+    ]
+  },
+  {
+    "name": "True Strike",
+    "level": "cantrip",
+    "school": "divination",
+    "pages": [
+      189
+    ]
+  },
+  {
+    "name": "Unseen Servant",
+    "level": "1st-level",
+    "school": "conjuration",
+    "pages": [
+      189
+    ]
+  },
+  {
+    "name": "Vampiric Touch",
+    "level": "3rd-level",
+    "school": "necromancy",
+    "pages": [
+      189
+    ]
+  },
+  {
+    "name": "Vicious Mockery",
+    "level": "cantrip",
+    "school": "enchantment",
+    "pages": [
+      189
+    ]
+  },
+  {
+    "name": "Wall of Fire",
+    "level": "4th-level",
+    "school": "evocation",
+    "pages": [
+      190
+    ]
+  },
+  {
+    "name": "Wall of Force",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      190
+    ]
+  },
+  {
+    "name": "Wall of Ice",
+    "level": "6th-level",
+    "school": "evocation",
+    "pages": [
+      190
+    ]
+  },
+  {
+    "name": "Wall of Stone",
+    "level": "5th-level",
+    "school": "evocation",
+    "pages": [
+      190
+    ]
+  },
+  {
+    "name": "Wall of Thorns",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Warding Bond",
+    "level": "2nd-level",
+    "school": "abjuration",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Water Breathing",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Water Walk",
+    "level": "3rd-level",
+    "school": "transmutation",
+    "pages": [
+      191
+    ]
+  },
+  {
+    "name": "Web",
+    "level": "2nd-level",
+    "school": "conjuration",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Weird",
+    "level": "9th-level",
+    "school": "illusion",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Wind Walk",
+    "level": "6th-level",
+    "school": "transmutation",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Wind Wall",
+    "level": "3rd-level",
+    "school": "evocation",
+    "pages": [
+      192
+    ]
+  },
+  {
+    "name": "Wish",
+    "level": "9th-level",
+    "school": "conjuration",
+    "pages": [
+      193
+    ]
+  },
+  {
+    "name": "Word of Recall",
+    "level": "6th-level",
+    "school": "conjuration",
+    "pages": [
+      193
+    ]
+  },
+  {
+    "name": "Zone of Truth",
+    "level": "2nd-level",
+    "school": "enchantment",
+    "pages": [
+      193
+    ]
+  }
+]

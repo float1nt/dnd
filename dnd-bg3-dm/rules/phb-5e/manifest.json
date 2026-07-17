@@ -1,0 +1,19 @@
+{
+  "source": "dnd5e玩家手册 .pdf",
+  "sourcePages": 288,
+  "rulesVersion": "2014 5e Player's Handbook",
+  "sourceStatus": "user-supplied lawful source",
+  "generatedBy": "scripts/build-phb-index.py",
+  "files": [
+    "pages.jsonl",
+    "sections.json",
+    "lookup.json",
+    "classes.json",
+    "races.json",
+    "spells.json",
+    "feats.json",
+    "backgrounds.json",
+    "equipment.json",
+    "manifest.json"
+  ]
+}

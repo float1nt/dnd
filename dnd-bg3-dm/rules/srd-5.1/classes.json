@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Barbarian",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  {
+    "name": "Bard",
+    "pages": [
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  {
+    "name": "Cleric",
+    "pages": [
+      15,
+      16,
+      17,
+      23,
+      31,
+      33
+    ]
+  },
+  {
+    "name": "Druid",
+    "pages": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      36
+    ]
+  },
+  {
+    "name": "Fighter",
+    "pages": [
+      24,
+      25
+    ]
+  },
+  {
+    "name": "Monk",
+    "pages": [
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "name": "Paladin",
+    "pages": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "name": "Ranger",
+    "pages": [
+      35,
+      36,
+      37
+    ]
+  },
+  {
+    "name": "Rogue",
+    "pages": [
+      39,
+      40
+    ]
+  },
+  {
+    "name": "Sorcerer",
+    "pages": [
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "name": "Warlock",
+    "pages": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "name": "Wizard",
+    "pages": [
+      52,
+      53,
+      54,
+      55
+    ]
+  }
+]
